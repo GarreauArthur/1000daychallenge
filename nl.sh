@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+
+# expect the log file to be in the same dir
+# and to have the number of day on the first line
+nb=$(head -n 1 ./log.md) 
+# increase number of days
+((nb++))
+echo $nb
+
+# replace number of days in the file
+# old line that doesn't work anymore for some reason: sed -i '' "1s/.*/$nb/" ./log.md
+sed -i "1s/.*/$nb/" ./log.md
+
+dateOfTheDay=$(date +%Y-%m-%d)
+echo -e "\n# day $nb: $dateOfTheDay\n\n" >> ./log.md
+
+vim ./log.md
