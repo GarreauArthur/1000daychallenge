@@ -27,8 +27,8 @@ these may just be random ideas
   * [ ] Go 
   * [ ] haskell
 * Game and graphics
-  * [ ] Game Engine Serie (9/45 already done)
-  * [ ] Watch the OpenGL serie (5/27 already done)
+  * [ ] Game Engine Serie (10/45 already done)
+  * [ ] Watch the OpenGL serie (11/27 already done)
 * Web
   * [ ] WebAssembly 
 * AI
