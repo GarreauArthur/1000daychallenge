@@ -43,9 +43,9 @@ these may just be random ideas
 * Blog
   * [ ] neural net articles
   * [ ] create a real dark side
-* [ ] 
-* [ ] 
-* [ ] 
+* DevOps 
+  * [ ] docker
+  * [ ] kubernetes
 * [ ] 
 * [ ] 
 * [ ] 
