@@ -1,4 +1,4 @@
-8
+10
 
 # day 0: 2019-09-11
 
@@ -35,6 +35,7 @@
 
 * exploring docker
   * download desktop and take a tutorial
+  * the goal is to learn docker to use it for my final study project
 
 # day 7: 2019-09-19
 
@@ -55,4 +56,27 @@
       * Docker for beginners - linux
       * Application Containerization and Microservice Orchestration (up to part 4)
 
+# day 9: 2019-09-21
 
+* Dockerized a nodejs app following: <https://nodejs.org/de/docs/guides/nodejs-docker-webapp/>
+* [Docker Compose in 12 minutes](https://youtu.be/Qw9zlE3t8Ko)
+* install docker compose (on desktop)
+* Try docker compose with a nodejs app, but got an error with npm
+* read gitlab ci quick start <https://docs.gitlab.com/ee/ci/quick_start/>
+
+# day 10: 2019-09-22
+
+* I just want more knowledge about docker, i really want to understand what's
+going on, and not just use commands, and create files
+* [Get started - docker overview](https://docs.docker.com/engine/docker-overview/)
+* training.play-with-docker, dev, stage1-Application step 4 and step 5
+* solved problem with express missing: you need `image` (to name is the image)
+when using `build` (to build an image) in the docker-compose.yml file
+* [docker host OS vs base OS](http://www.floydhilton.com/docker/2017/03/31/Docker-ContainerHost-vs-ContainerOS-Linux-Windows.html)
+
+
+TODO
+
+* volumes and storage with and without dockercompose
+* read this https://blog.docker.com/2019/07/keep-nodejs-rockin-in-docker/
+* read this https://docs.gitlab.com/ee/workflow/repository_mirroring.html#pulling-from-a-remote-repository-starter
