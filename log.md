@@ -1,4 +1,4 @@
-10
+13
 
 # day 0: 2019-09-11
 
@@ -75,8 +75,38 @@ when using `build` (to build an image) in the docker-compose.yml file
 * [docker host OS vs base OS](http://www.floydhilton.com/docker/2017/03/31/Docker-ContainerHost-vs-ContainerOS-Linux-Windows.html)
 
 
+# day 11: 2019-09-24
+
+* Writing an article on docker, but jeez it takes a lot of time, too much
+  * layers diagrams
+* read : 
+  * https://medium.com/@jessgreb01/digging-into-docker-layers-c22f948ed612
+  * [ ] https://stackoverflow.com/a/51660942
+  * https://windsock.io/explaining-docker-image-ids/
+  * [care later] https://dzone.com/articles/container-isolation-gone-wrong
+
+
+# day 12: 2019-09-26
+
+* java thread
+  * re-read my lecture material
+  * https://openclassrooms.com/fr/courses/26832-apprenez-a-programmer-en-java/24058-executez-des-taches-simultanement
+* java socket
+  * re-read my lecture material
+
+i am too tired to do anything :'(
+
+# day 13: 2019-09-26
+
+* sub/pub vs observer https://hackernoon.com/observer-vs-pub-sub-pattern-50d3b27f838c
+
+
+
 TODO
 
 * volumes and storage with and without dockercompose
 * read this https://blog.docker.com/2019/07/keep-nodejs-rockin-in-docker/
 * read this https://docs.gitlab.com/ee/workflow/repository_mirroring.html#pulling-from-a-remote-repository-starter
+read this https://www.baeldung.com/a-guide-to-java-sockets
+read this maybe: https://openclassrooms.com/fr/courses/2654566-java-et-le-multithreading/2667696-avant-toutes-choses
+https://medium.com/@qingweilim/how-do-multiplayer-games-sync-their-state-part-1-ab72d6a54043

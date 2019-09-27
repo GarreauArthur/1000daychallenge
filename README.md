@@ -16,6 +16,15 @@ This repo contains my public log of everything I've learnt/done.
 
 CS or SE: it can be anything, programming, AI, games, algo, theory, data, dev ops...
 
+## to do list
+
+* volumes and storage with and without dockercompose
+* read this https://blog.docker.com/2019/07/keep-nodejs-rockin-in-docker/
+* read this https://docs.gitlab.com/ee/workflow/repository_mirroring.html#pulling-from-a-remote-repository-starter
+* read this https://www.baeldung.com/a-guide-to-java-sockets
+* read this maybe: https://openclassrooms.com/fr/courses/2654566-java-et-le-multithreading/2667696-avant-toutes-choses
+* https://medium.com/@qingweilim/how-do-multiplayer-games-sync-their-state-part-1-ab72d6a54043
+
 ## things to do/learn
 
 these may just be random ideas
