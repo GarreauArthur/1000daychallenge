@@ -1,4 +1,4 @@
-13
+16
 
 # day 0: 2019-09-11
 
@@ -100,8 +100,6 @@ i am too tired to do anything :'(
 
 * sub/pub vs observer https://hackernoon.com/observer-vs-pub-sub-pattern-50d3b27f838c
 
-
-
 TODO
 
 * volumes and storage with and without dockercompose
@@ -110,3 +108,25 @@ TODO
 read this https://www.baeldung.com/a-guide-to-java-sockets
 read this maybe: https://openclassrooms.com/fr/courses/2654566-java-et-le-multithreading/2667696-avant-toutes-choses
 https://medium.com/@qingweilim/how-do-multiplayer-games-sync-their-state-part-1-ab72d6a54043
+
+# day 14: 2019-10-01
+
+* (The Cherno) OpenGL 14 - Buffer Layout Abstraction in OpenGL
+* docker article (still volumes, services and stack to do)
+
+# day 15: 2019-10-03
+
+* As much as I like C++, doing anything with it is awfully slow and complicated
+and I want to make progress on my project, so let's focus on javascript and nodejs
+for now
+* trying stuff
+  * jest
+  * node module ws
+* javascript.info (relearn js, because why tf not)
+  * an introduction
+  * JS fundamentals 1,2,3,4
+
+# day 16: 2019-10-04
+
+* javascript.info (relearn js, because why tf not)
+  * JS fundamentals 5
