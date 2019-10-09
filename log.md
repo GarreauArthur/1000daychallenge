@@ -1,4 +1,4 @@
-16
+17
 
 # day 0: 2019-09-11
 
@@ -130,3 +130,8 @@ for now
 
 * javascript.info (relearn js, because why tf not)
   * JS fundamentals 5
+
+# day 17: 2019-10-09
+
+* start project atme.js
+* read [Backpressure explained — the resisted flow of data through software](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7)

@@ -25,6 +25,8 @@ CS or SE: it can be anything, programming, AI, games, algo, theory, data, dev op
 * read this maybe: https://openclassrooms.com/fr/courses/2654566-java-et-le-multithreading/2667696-avant-toutes-choses
 * https://medium.com/@qingweilim/how-do-multiplayer-games-sync-their-state-part-1-ab72d6a54043
 
+* finir de lire ça <https://www.gremlin.com/chaos-monkey/the-origin-of-chaos-monkey/#chaos-monkey-today>
+
 ## things to do/learn
 
 these may just be random ideas
