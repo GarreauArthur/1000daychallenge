@@ -1,4 +1,4 @@
-17
+20
 
 # day 0: 2019-09-11
 
@@ -86,7 +86,7 @@ when using `build` (to build an image) in the docker-compose.yml file
   * [care later] https://dzone.com/articles/container-isolation-gone-wrong
 
 
-# day 12: 2019-09-26
+# day 12: 2019-09-25
 
 * java thread
   * re-read my lecture material
@@ -135,3 +135,49 @@ for now
 
 * start project atme.js
 * read [Backpressure explained — the resisted flow of data through software](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7)
+
+# day 18: 2019-10-11
+
+* set up a nginx server for the first time (in a docker container)
+* let's relearn nodejs https://nodejs.dev/ - introduction to node.js
+
+# day 19: 2019-10-12
+
+* a brief history of nodejs
+* How much JavaScript do you need to know to use Node.js?
+* Differences between Node.js and the Browser
+* The V8 JavaScript Engine
+* Run Node.js scripts from the command line
+* How to exit from a Node.js program
+* How to read environment variables from Node.js
+* Where to host a Node.js app
+* How to use the Node.js REPL
+* Output to the command line using Node.js
+* Accept input from the command line in Node.js
+* Expose functionality from a Node.js file using exports
+* An introduction to the npm package manager
+* Where does npm install the packages?
+* How to use or execute a package installed using npm
+* The package.json guide
+* The package-lock.json file
+* Find the installed version of an npm package
+* Install an older version of an npm package
+* Update all the Node.js dependencies to their latest version
+* Semantic Versioning using npm
+* Uninstalling npm packages
+* npm global or local packages
+* npm dependencies and devDependencies
+* The npx Node.js Package Runner
+* The Node.js Event Loop
+* Understanding process.nextTick()
+* [The Node.js Event Loop: Not So Single Threaded](https://youtu.be/zphcsoSJMvM)
+
+# day 20: 2019-10-13
+
+* <https://nodejs.dev/> Not in order today
+  * Node.js Buffers
+  * Node.js Streams
+* atme.js
+  * send index.html
+  * test cookies and adding props to ws
+  * bufferArrays are annoying
