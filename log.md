@@ -181,3 +181,5 @@ for now
   * send index.html
   * test cookies and adding props to ws
   * bufferArrays are annoying
+* javascript.info
+  * Type Conversions
