@@ -1,4 +1,4 @@
-20
+26
 
 # day 0: 2019-09-11
 
@@ -183,3 +183,34 @@ for now
   * bufferArrays are annoying
 * javascript.info
   * Type Conversions
+
+# day 21: 2019-10-15
+
+* SQL3 oracledb
+* tiny user system in docker containers
+
+# day 22: 2019-10-16
+
+* tiny user system easily configurable
+
+# day 23: 2019-10-17
+
+* atme.js
+  * test connection to tiny_user_system
+
+# day 24: 2019-10-18
+
+* poquelinades
+  * start dev websocket server with nodejs ws (because easier, and more stable)
+  * test with jest
+
+# day 25: 2019-10-19
+
+* poq-api
+  * dev websocket server and test
+
+# day 26: 2019-10-20
+
+* poq-api
+  * dev websocket server and test
+
