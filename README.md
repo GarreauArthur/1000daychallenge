@@ -37,6 +37,7 @@ these may just be random ideas
   * [ ] Rust
   * [ ] Go 
   * [ ] haskell
+  * [ ] learn to create nodejs addons
 * Game and graphics
   * [ ] Game Engine Serie (10/45 already done)
   * [ ] Watch the OpenGL serie (11/27 already done)

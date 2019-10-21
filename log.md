@@ -1,4 +1,4 @@
-26
+27
 
 # day 0: 2019-09-11
 
@@ -214,3 +214,7 @@ for now
 * poq-api
   * dev websocket server and test
 
+# day 27: 2019-10-21
+
+* fix a bug in tiny_user_system
+* atme.js: test token
