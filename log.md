@@ -1,4 +1,4 @@
-27
+28
 
 # day 0: 2019-09-11
 
@@ -218,3 +218,10 @@ for now
 
 * fix a bug in tiny_user_system
 * atme.js: test token
+
+# day 28: 2019-10-23
+
+* High performance Browser networking <https://hpbn.co>
+  * chapter 1 Primer on Latency and Bandwidth
+
+
