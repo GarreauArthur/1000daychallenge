@@ -1,4 +1,4 @@
-28
+38
 
 # day 0: 2019-09-11
 
@@ -224,4 +224,68 @@ for now
 * High performance Browser networking <https://hpbn.co>
   * chapter 1 Primer on Latency and Bandwidth
 
+# day 29: 2019-10-24
 
+* Http test performance with `wrk`
+  * nodejs: 32788 req/sec
+  * pitashe.io: 2809 req/sec
+  * httplib: 298 req/sec
+  * uWebSocket.js: 171454 req/sec
+  * uWebSocket (c++): 226680 req/sec
+
+# day 30: 2019-10-26
+
+* start project file_storage with nodejs, but denied because i want to try using
+C++
+* The Cherno C++ serie - [72. Precompiled header](https://youtu.be/18c3MTX0PK0)
+
+# day 31: 2019-10-27
+
+* file_storage:
+  * dir architecture
+  * use of gitmodules to add uwebsockets
+  * makefile
+  * precompiled header of uwebsockets
+* C++ lvalues, rvalues <https://www.internalpointers.com/post/understanding-meaning-lvalues-and-rvalues-c>
+* C++ rvalues ref and move semantics <https://www.internalpointers.com/post/c-rvalue-references-and-move-semantics-beginners>
+
+# day 32: 2019-10-28
+
+* hackerrank.com c++ challenges to refresh myself
+
+# day 33: 2019-10-29
+
+* hackerrank.com more challenges
+* file_storage
+  * create server
+  * start trying using [mutlipart-parser](https://github.com/FooBarWidget/multipart-parser)
+
+# day 34: 2019-10-30
+
+* file_storage
+  * mutlipart-parser
+    * change to string_view
+    * fix bug with boundary
+    * wasted time on bug with string_view (because they are not null-terminated ^^')
+  * Parsing boundary from the content-type header, but weird bug
+
+# day 35: 2019-10-31
+
+* file_storage: finding where the bug is coming from: the lambda capture
+
+# day 36: 2019-11-01
+
+* learning more about lambda capture
+* The cherno C++ - 80 [How to make your STRINGS FASTER in C++!](https://youtu.be/ZO68JEgoPeg)
+* [Modern C++ (data types, references)](https://youtu.be/1QT9HnCkz4I)
+* [Modern C++ (value categories)](https://youtu.be/wkWtRDrjEH4)
+
+# day 37: 2019-11-02
+
+* [Modern C++ (move semantics, perfect forwarding)](https://youtu.be/kRVjG3qb7RE)
+
+
+# day 38: 2019-11-03
+
+* multipart-parser trying to write move constructor and move assignment operator
+but i need to dig deeper to make it work
