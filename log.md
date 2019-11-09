@@ -1,4 +1,4 @@
-38
+41
 
 # day 0: 2019-09-11
 
@@ -289,3 +289,18 @@ C++
 
 * multipart-parser trying to write move constructor and move assignment operator
 but i need to dig deeper to make it work
+
+# day 39: 2019-11-05
+
+* The cherno c++ 45 - [Copying and Copy Constructors in C++](https://youtu.be/BvR1Pgzzr38)
+* multipart-parser fix move constructor (and move assignment operator)
+
+# day 40: 2019-11-07
+
+* start to clean multipart-parser and try to make it work fully, it doesn't call
+all the callbacks...
+
+# day 41: 2019-11-07
+
+* [understanding the this keyword in js](https://medium.com/quick-code/understanding-the-this-keyword-in-javascript-cb76d4c7c5e8)
+* keep understanding multipart-parser

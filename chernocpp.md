@@ -42,7 +42,7 @@
 * [x] 42
 * [x] 43
 * [ ] 44 - smart pointer
-* [ ] 45 - copying and copy constructor
+* [x] 45 - copying and copy constructor
 * [ ] 46 - arrow operator
 * [ ] 47 - std::vector
 * [ ] 48 - optimizing usage of vectors

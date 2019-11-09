@@ -33,7 +33,7 @@ these may just be random ideas
 
 * Programming
   * [ ] C++ (relearn + advanced)
-    * [ ] The cherno c++ serie (49 already done/80)
+    * [ ] The cherno c++ serie (50 already done/80)
     * [x] 1. <https://www.internalpointers.com/post/understanding-meaning-lvalues-and-rvalues-c>
     * [x] 2. <http://www.internalpointers.com/post/c-rvalue-references-and-move-semantics-beginners>
     * [ ] <http://thbecker.net/articles/rvalue_references/section_01.html>
@@ -43,6 +43,7 @@ these may just be random ideas
     * [ ] semantics, move semantics
       * [ ] https://channel9.msdn.com/Events/GoingNative/2013/An-Effective-Cpp11-14-Sampler
     * [ ] forwarding, perfect forwarding, reference collasping, forwading reference (universal reference)
+    * [ ] [generalized lambda capture](https://isocpp.org/wiki/faq/cpp14-language#lambda-captures)
   * [ ] Rust
   * [ ] Go 
   * [ ] haskell
