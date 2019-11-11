@@ -1,4 +1,4 @@
-41
+44
 
 # day 0: 2019-09-11
 
@@ -295,7 +295,7 @@ but i need to dig deeper to make it work
 * The cherno c++ 45 - [Copying and Copy Constructors in C++](https://youtu.be/BvR1Pgzzr38)
 * multipart-parser fix move constructor (and move assignment operator)
 
-# day 40: 2019-11-07
+# day 40: 2019-11-06
 
 * start to clean multipart-parser and try to make it work fully, it doesn't call
 all the callbacks...
@@ -304,3 +304,24 @@ all the callbacks...
 
 * [understanding the this keyword in js](https://medium.com/quick-code/understanding-the-this-keyword-in-javascript-cb76d4c7c5e8)
 * keep understanding multipart-parser
+
+# day 42: 2019-11-9
+
+* 26 first minutes of [An effective C++11/14 Sampler](https://channel9.msdn.com/Events/GoingNative/2013/An-Effective-Cpp11-14-Sampler)
+about std::move and std::forward
+
+# day 43: 2019-11-10
+
+* hacker rank: 2D array, Arrays: left rotation, New Year chaos
+
+# day 44: 2019-11-11
+
+* hackerrank: Minimum swaps2
+* hackerrank "Array Manipulation"
+  * [Array Manipulation Hackerrank Solution | Difference Array | Range Update Query In O(1)](https://youtu.be/hDhf04AJIRs)
+  * [Why You Must Learn Prefix Sum Algorithm?](https://youtu.be/scD312I7kkE)
+* kl/algo/algos.md
+  * prefix sum algo
+  * arrays minimum number of swaps
+* prefix sum algo <https://youtu.be/pVS3yhlzrlQ>
+

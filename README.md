@@ -31,7 +31,7 @@ CS or SE: it can be anything, programming, AI, games, algo, theory, data, dev op
 
 these may just be random ideas
 
-* Programming
+* Programming, Algo, data struct...
   * [ ] C++ (relearn + advanced)
     * [ ] The cherno c++ serie (50 already done/80)
     * [x] 1. <https://www.internalpointers.com/post/understanding-meaning-lvalues-and-rvalues-c>
@@ -41,13 +41,15 @@ these may just be random ideas
     * [ ] buy and read "Effective C++" by Scott Meyers
     * [ ] explore [copperspice's yt channel](https://www.youtube.com/channel/UC-lNlWEq0kpMcThO-I81ZdQ)
     * [ ] semantics, move semantics
-      * [ ] https://channel9.msdn.com/Events/GoingNative/2013/An-Effective-Cpp11-14-Sampler
+      * [x] https://channel9.msdn.com/Events/GoingNative/2013/An-Effective-Cpp11-14-Sampler
     * [ ] forwarding, perfect forwarding, reference collasping, forwading reference (universal reference)
     * [ ] [generalized lambda capture](https://isocpp.org/wiki/faq/cpp14-language#lambda-captures)
   * [ ] Rust
   * [ ] Go 
   * [ ] haskell
   * [ ] learn to create nodejs addons
+  * [ ] algo
+    * [ ] array manipulation, difference array <https://youtu.be/hDhf04AJIRs>
 * Game and graphics
   * [ ] Game Engine Serie (10/45 already done)
   * [ ] Watch the OpenGL serie (11/27 already done)
