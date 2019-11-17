@@ -1,4 +1,4 @@
-44
+46
 
 # day 0: 2019-09-11
 
@@ -324,4 +324,16 @@ about std::move and std::forward
   * prefix sum algo
   * arrays minimum number of swaps
 * prefix sum algo <https://youtu.be/pVS3yhlzrlQ>
+
+
+# day 45: 2019-11-14
+
+* hackerrank: Box it (c++)
+
+# day 46: 2019-11-16
+
+* hackerrank c++
+  * StringStream
+  * struct
+  * class
 
