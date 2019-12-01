@@ -1,4 +1,4 @@
-46
+47
 
 # day 0: 2019-09-11
 
@@ -336,4 +336,10 @@ about std::move and std::forward
   * StringStream
   * struct
   * class
+
+
+# day 47: 2019-11-30
+
+
+
 
