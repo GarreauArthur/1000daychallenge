@@ -50,6 +50,7 @@ these may just be random ideas
   * [ ] learn to create nodejs addons
   * [ ] algo
     * [ ] array manipulation, difference array <https://youtu.be/hDhf04AJIRs>
+    * [ ] dfs, bfs, backtrack, parenthesis problem...
 * Game and graphics
   * [ ] Game Engine Serie (10/45 already done)
   * [ ] Watch the OpenGL serie (11/27 already done)
