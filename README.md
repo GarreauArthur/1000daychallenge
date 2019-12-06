@@ -50,7 +50,12 @@ these may just be random ideas
   * [ ] learn to create nodejs addons
   * [ ] algo
     * [ ] array manipulation, difference array <https://youtu.be/hDhf04AJIRs>
-    * [ ] dfs, bfs, backtrack, parenthesis problem...
+    * [ ] dfs
+    * [x] bfs, backtrack, 
+    * [ ] bfs with adjency list
+    * [x] parenthesis problem
+    * [ ] lot of interesting stuff here : <https://www.hackerearth.com/fr/practice/algorithms/searching/linear-search/tutorial/>
+  * [ ] mettre au propre notes sur prolog
 * Game and graphics
   * [ ] Game Engine Serie (10/45 already done)
   * [ ] Watch the OpenGL serie (11/27 already done)

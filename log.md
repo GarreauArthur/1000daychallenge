@@ -1,4 +1,4 @@
-47
+51
 
 # day 0: 2019-09-11
 
@@ -344,3 +344,24 @@ about std::move and std::forward
   * Classes and Objects
   * Inheritance Introduction
 
+# day 48: 2019-12-02
+
+* hackerrank interview preparation kit
+  * BFS: Shortest Reach in a Graph
+
+# day 49: 2019-12-04
+
+* Design Pattern
+  * [Factory method](https://refactoring.guru/design-patterns/factory-method)
+  * [Abstract factory](https://refactoring.guru/design-patterns/abstract-factory)
+  * [Strategy](https://refactoring.guru/design-patterns/strategy)
+
+# day 50: 2019-12-05
+
+* Deploy lespoquelinades.com (https, certbot, nginx, subdomain, docker...).
+
+# day 51: 2019-12-06
+
+* <https://blog.usejournal.com/how-a-googler-solves-coding-problems-ec5d59e73ec5>
+* hackerrank
+  * binary search tree
