@@ -1,4 +1,4 @@
-51
+53
 
 # day 0: 2019-09-11
 
@@ -365,3 +365,16 @@ about std::move and std::forward
 * <https://blog.usejournal.com/how-a-googler-solves-coding-problems-ec5d59e73ec5>
 * hackerrank
   * binary search tree
+
+# day 52: 2019-12-18
+
+* https://www.hackerrank.com/challenges/two-strings/problem
+
+# day 53: 2019-12-19
+
+* notes on c++ stack and queue
+* rappel [Utiliser les conteneurs](https://openclassrooms.com/fr/courses/1894236-programmez-avec-le-langage-c/1903098-utilisez-les-conteneurs)
+* [ ] linked list
+  * <https://www.softwaretestinghelp.com/linked-list/>
+  * <https://www.hackerrank.com/interview/interview-preparation-kit/linked-lists/challenges>
+* [ ] <https://openclassrooms.com/fr/courses/1894236-programmez-avec-le-langage-c/1903301-utlisez-les-iterateurs-et-les-foncteurs>

@@ -43,7 +43,8 @@ these may just be random ideas
     * [ ] semantics, move semantics
       * [x] https://channel9.msdn.com/Events/GoingNative/2013/An-Effective-Cpp11-14-Sampler
     * [ ] forwarding, perfect forwarding, reference collasping, forwading reference (universal reference)
-    * [ ] [generalized lambda capture](https://isocpp.org/wiki/faq/cpp14-language#lambda-captures)
+    * [ ] - [generalized lambda capture](https://isocpp.org/wiki/faq/cpp14-language#lambda-captures)
+    * [ ] short [Exception handling : a false sense of security](http://ptgmedia.pearsoncmg.com/images/020163371x/supplements/Exception_Handling_Article.html)
   * [ ] Rust
   * [ ] Go 
   * [ ] haskell
