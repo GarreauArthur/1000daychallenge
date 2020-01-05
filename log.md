@@ -1,4 +1,4 @@
-53
+56
 
 # day 0: 2019-09-11
 
@@ -378,3 +378,27 @@ about std::move and std::forward
   * <https://www.softwaretestinghelp.com/linked-list/>
   * <https://www.hackerrank.com/interview/interview-preparation-kit/linked-lists/challenges>
 * [ ] <https://openclassrooms.com/fr/courses/1894236-programmez-avec-le-langage-c/1903301-utlisez-les-iterateurs-et-les-foncteurs>
+
+# day 54: 2019-12-23
+
+* presentation on lists (slides)
+* Hackerrank:
+  * Practice > Interview Prep Kit > Linked Lists > Reverse a doubly linked list
+
+# day 55: 2019-12-24
+
+* Hackerrank:
+  * Practice > Interview Prep Kit > Linked Lists > Find the merge point of 2 joined linked lists
+  * Practice > Data Structures > Linked Lists > Cycle detection
+  * Practice > Interview Prep Kit > Linked Lists > Inserting a Node into a sorted doubly linked list
+  * Practice > Interview Prep Kit > Linked Lists > Linked Lists: Detect a cycle
+  * Practice > Interview Prep Kit > Trees > Tree: Height of a Binary Tree
+
+# day 56: 2019-12-25
+
+* Hackerrank
+  * Practice > Interview Prep Kit > Trees > Trees: Is This a Binary Search Tree? [PROBLEM is broken]
+  * Practice > Interview Prep Kit > Graph > DFS: Connected Cell in a Grid (hard)
+  * Practice > Data Structures > Arrays > Sparse Array
+  * Practice > Data Structures > Arrays > Left Rotation
+  * Practice > Data Structures > Trees > Kitty's calculations on a Tree [FAILED because of timeout]
