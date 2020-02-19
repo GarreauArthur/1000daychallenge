@@ -1,4 +1,4 @@
-56
+69
 
 # day 0: 2019-09-11
 
@@ -402,3 +402,139 @@ about std::move and std::forward
   * Practice > Data Structures > Arrays > Sparse Array
   * Practice > Data Structures > Arrays > Left Rotation
   * Practice > Data Structures > Trees > Kitty's calculations on a Tree [FAILED because of timeout]
+
+# day 57: 2020-01-28
+
+* réviser cours JEE, création client pour le cours de TWIC
+
+# day 58: 2020-01-29
+
+* mise en place ngrok, github webhook, jenkins, sonar pour TWIC
+
+# day 59: 2020-01-30
+
+* React Context & Hooks Tutorial <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI>
+  * intro
+  * what is the context API ?
+  * Adding a context & provider 
+  * accessing context
+
+# day 60: 2020-01-31
+
+* React Context & Hooks Tutorial <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI>
+  * Accessing context (part 2) [5/21]
+  * Updating context data [6/21]
+  * Creating multiple contexts [7/21]
+
+# day 61: 2020-02-01
+
+* React Context & Hooks Tutorial <https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI>
+  * Consuming Multiple Contexts [8/21]
+
+* [Complete React Tutorial (& Redux)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
+  * Intro [1/41]
+  * How react works [2/41]
+  * React Setup [3/41]
+  * React Components [4/41]
+  * State [5/41]
+  * React dev tools [6/41]
+  * Dom events [7/41]
+  * Changing state and (this) [8/41]
+  * Intro to forms [9/41]
+  * Create React App [10/41]
+  * Single Page Apps [11/41]
+  * Nesting components [12/41]
+  * Props [13/41]
+  * Outputting lists [14/41]
+  * Stateless Components [15/41]
+    * Container Components (state) vs UI components (stateless)
+  * Conditional output [16/41]
+  * Forms revisited [17/41]
+  * Functions as Props [18/41]
+  * Deleting data [19/41]
+  * Recap & virtual DOM [20/41]
+  * CSS Files [21/41]
+
+# day 62: 2020-02-02
+
+* [Complete React Tutorial (& Redux)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
+  * Lifecycle methods [22/41]
+  * Todo App (part 1) [23/41]
+  * Todo App (part 2) [24/41]
+  * React router [25/41]
+  * Links & NavLinks [26/41]
+  * Programmatic redirects [27/41]
+  * High Order Components [28/41]
+  * Using axios [29/41]
+  * Route Parameters (part 1) [30/41]
+  * Route Parameters (part 2) [31/41]
+  * Switch tag [32/41]
+  * Importing Images [33/41]
+
+# day 63: 2020-02-03
+
+* read <https://github.com/gibsjose/cpp-cheat-sheet/blob/master/C++%20Syntax.md>
+
+# day 64: 2020-02-04
+
+* [Complete React Tutorial (& Redux)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
+  * Intro to redux [34/41]
+  * Redux stores [35/41]
+  * Redux Actions [36/41]
+  * Redux reducers [37/41]
+  * Store subscriptions [38/41]
+  * Setting up Redux in React [39/41]
+  * [40/41]
+  * [41/41]
+  * [42/41]
+  * [43/41]
+  * [44/41]
+
+  * TODO Intro to Hooks [9/21]
+  * [10/21]
+  * [11/21]
+  * [12/21]
+  * [13/21]
+  * [14/21]
+  * [15/21]
+  * [16/21]
+  * [17/21]
+  * [18/21]
+  * [19/21]
+  * [20/21]
+  * [21/21]
+
+# day 65: 2020-02-14
+
+* video Largest Rectangle in histogram
+
+# day 66: 2020-02-15
+
+* leetcode
+  * Reverse Integer
+
+# day 67: 2020-02-16
+
+* leetcode
+  * Roman to Integer
+  * 14. Longest Common Prefix
+  * 20. Valid Parentheses
+* Modern C++ programming cookbook
+  * learning modern core language feature
+    * intro
+    * using auto whenever possible
+
+# day 68: 2020-02-17
+
+* Creating type aliases and alias templates
+* Understanding uniform initialization
+* leetcode
+  * Merge two sorted lists
+
+# day 69: 2020-02-18
+
+* The cherno c++ 82 - [SINGLETONS in C++](https://youtu.be/PPup1yeU45I)
+* The cherno c++ 83 - [Small String Optimization in C++](https://youtu.be/S7oVXMzTo4w)
+* leet code
+  * 9. Palindrome Number
+  * 26. Remove Duplicates from Sorted Array

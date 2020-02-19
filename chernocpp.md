@@ -78,3 +78,6 @@
 * [ ] 78 - how to store ANY data
 * [ ] 79 - std::async
 * [x] 80 - string view
+* [ ] 81 - visual benchmarking in c++
+* [x] 82 - [SINGLETONS in C++](https://youtu.be/PPup1yeU45I)
+* [x] 83 - [Small String Optimization in C++](https://youtu.be/S7oVXMzTo4w)
