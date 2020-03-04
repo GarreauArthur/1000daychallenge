@@ -1,4 +1,4 @@
-69
+82
 
 # day 0: 2019-09-11
 
@@ -538,3 +538,109 @@ about std::move and std::forward
 * leet code
   * 9. Palindrome Number
   * 26. Remove Duplicates from Sorted Array
+
+# day 70: 2020-02-19
+
+* leet code
+  * 70. climbing stairs
+  * 27. Remove Element
+
+# day 71: 2020-02-20
+
+* [Google Coding Interview Question - Sum Of Two](https://youtu.be/sfuZzBLPcx4)
+* C++ as a 2nd language <https://youtu.be/cN9c_JyvL1A>
+* leet code
+  * 28. Implement strStr();
+  * 35. Search insert position
+  * 38. Count and Say
+
+# day 72: 2020-02-22
+
+* leet code
+  * 53. maximum subarray
+  * 66. Plus One
+  * 69. Sqrt(x)
+* <https://www.hackerearth.com/fr/practice/algorithms/searching/>
+  * linear search
+  * binary search
+  * ternary search
+
+# day 73: 2020-02-23
+
+* GraphQL I am curious <https://www.howtographql.com/>
+  * Fundamentals
+    * Introduction
+    * GraphQL is the better REST
+    * core concepts
+    * big picture (architecture)
+  * GraphQL-Node tuto
+    * intro
+    * getting started
+    * a simple query
+    * a simple mutation
+
+# day 74: 2020-02-24
+
+* GraphQL-Node tuto
+  * adding a database
+  * connecting server and database with the prisma client
+  * authentication
+* leet code 88. Merge sorted Array
+* notes on graphQL (kl)
+
+# day 75: 2020-02-25
+
+* powerlist (back)
+  * setting up graphQL & prisma
+  * issue #1
+
+# day 76: 2020-02-26
+
+* powerlist (back) 
+  * issues #2, #5, #11
+
+# day 77: 2020-02-27
+
+* graphQL-Node tuto
+  * Realtime graphql subscriptions
+  * filtering, pagination & sorting
+  * simmary
+* graphQl-react-appollo tuto
+  * intro
+  * getting started
+  * mutations: creating links
+  * routing
+
+# day 78: 2020-02-28
+
+* deploiement troupe, fixe problème websocket lespoquelinades.com
+
+# day 79: 2020-02-29
+
+* graphQl-react-appollo tuto
+  * Authentication
+* powerlist
+  * start of front end (react)
+
+# day 80: 2020-03-02
+
+* leet code
+  * [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+    * [two pointer algorithm | two sum problem | solve ds problems in O(n)](https://youtu.be/2wVjt3yhGwg) 
+* [Problem Solving Technique #1 for Coding Interviews with Google, Amazon, Microsoft, Facebook, etc.](https://youtu.be/lD-LuK_VGZI)
+
+# day 81: 2020-03-03
+
+* [The JavaScript Survival Guide](https://youtu.be/9emXNzqCKyg)
+* leet code
+  * [easy 121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+* Start messing around with apollo on powerlist
+* WilliamFiset YT playlist 
+  * Union Find (disjoint set) Introduction
+  * Union Find kruskal's algorithm
+  * data structures intro
+  * abstract data types
+
+# day 82: 2020-03-04
+
+* [easy 58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)

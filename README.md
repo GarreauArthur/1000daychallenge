@@ -31,6 +31,9 @@ CS or SE: it can be anything, programming, AI, games, algo, theory, data, dev op
 
 these may just be random ideas
 
+legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing, 
+
+
 * Programming, Algo, data struct...
   * [ ] C++ (relearn + advanced)
     * [ ] The cherno c++ serie (52 already done/83)
@@ -53,8 +56,59 @@ these may just be random ideas
   * [ ] Rust
   * [ ] Go 
   * [ ] haskell
+  * [ ] javascript
+    * [ ] Learn more - [The Modern JavaScript Tutorial](https://javascript.info/)
+      * [ ] "use strict" <https://javascript.info/strict-mode>
+      * [*] Promises, async/await  <https://javascript.info/async>
+    * [ ] closure <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures>
   * [ ] learn to create nodejs addons
   * [ ] algo & data structure
+    * [ ] <https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction>
+    * [ ] WilliamFiset yt playlist <https://www.youtube.com/watch?v=Qmt0QwzEmh0&list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu>
+      * [0/2] Dynamic and static arrays
+      * [0/2] Linked list
+      * [0/3] stack
+      * [0/3] queue
+      * [0/5] priority queue
+      * [2/5] Union Find
+      * [0/5] binary tree
+      * [0/9] hash table
+      * [0/4] Fenwick Tree
+      * [0/6] Suffix array, prefix
+      * [0/1] Balanced Binary search tree rotations
+      * [0/3] AVL tree
+      * [0/2] Index priority queue
+    * [ ] <https://www.hackerearth.com/fr/practice/algorithms/>
+      * [x] searching
+        * [x] linear search
+        * [x] binary search
+        * [x] ternary search
+      * [ ] sorting
+        * [ ] bubble sort
+        * [ ] selection sort
+        * [ ] insertion sort
+        * [ ] merge sort
+        * [ ] quick sort
+        * [ ] counting sort
+        * [ ] radix sort
+        * [ ] heap sort
+        * [ ] buck sort
+      * [ ] graphs
+      * [ ] string algo
+        * [ ] basic of string manipulation
+        * [ ] string searching
+        * [ ] Z algo
+        * [ ] Manachar's algo
+      * [*] Dynamic programming 
+        * [ ] Intro to DP
+        * [ ] 2 dimen
+        * [ ] state space reduction
+        * [ ] dp and bit masking
+      * [ ] 
+        * [ ] 
+    * [ ] heaps
+      * [ ] [learning to love heaps](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238)
+      * [ ] heap in c++ <https://www.fluentcpp.com/2018/03/13/heaps-priority-queues-stl-part-1/>
     * [ ] B+ tree
     * [ ] Rope (data structure)
       * https://leetcode.com/discuss/interview-question/413991/
@@ -64,12 +118,17 @@ these may just be random ideas
     * [x] bfs, backtrack, 
     * [ ] bfs with adjency list
     * [x] parenthesis problem
-    * [ ] lot of interesting stuff here : <https://www.hackerearth.com/fr/practice/algorithms/searching/linear-search/tutorial/>
   * [ ] mettre au propre notes sur prolog
   * leetcode
-    * [ ] hard (google) <https://leetcode.com/problems/stream-of-characters/>
-    * [ ] hard (google) <https://leetcode.com/problems/24-game/>
-    * [ ] easy (google) <https://leetcode.com/problems/climbing-stairs/>
+    * [ ] 3/70 <https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU>
+      * [/] easy (25, 27, 31, 35)
+      * [ ] medium (2,3, 4, 5, 6, 10, 11, 12, 14, 15, 16, 18, 20, 22, 23, 24, 26, 28, 33, 34)
+      * [ ] hard (9, 17, 21, 30, 32,)
+    * [ ] top 50 interview question
+      * [x] easy (14/14)
+      * [ ] medium (1/28)
+      * [ ] hard (1/8)
+    * [ ] Microsoft <https://leetcode.com/discuss/interview-question/398023/Microsoft-Online-Assessment-Questions>
 * Game and graphics
   * [ ] Game Engine Serie (10/45 already done)
   * [ ] Watch the OpenGL serie (11/27 already done)
@@ -79,6 +138,9 @@ these may just be random ideas
     * [/] The Ninja Net [Complete React Tutorial (& Redux)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG) (15/41)
     * [/] The Ninja Net [React Context & Hooks](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI) (8/21)
     * [ ] Power list project
+  * [/] graphQL & prisma
+    * [x] graphQL-node tuto
+    * [ ] graphQL-react tuto
 * Mobile
   * [ ] React-Native
 * AI
