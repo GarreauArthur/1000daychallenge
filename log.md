@@ -1,4 +1,4 @@
-82
+92
 
 # day 0: 2019-09-11
 
@@ -644,3 +644,90 @@ about std::move and std::forward
 # day 82: 2020-03-04
 
 * [easy 58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+
+# day 83: 2020-03-05
+
+* "easy" amazon like (BFS) [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+* WilliamFiset YT playlist 
+  * Union Find - Union Find operations
+  * Union Find Path Compression
+  * Binary Search Tree intro
+  * Binary Search Tree insertion
+  * Binary Search Tree removal
+
+# day 84: 2020-03-06
+
+* WilliamFiset YT playlist 
+  * Union Find code
+* révision exception c++ <https://openclassrooms.com/fr/courses/1894236-programmez-avec-le-langage-c/1903837-gerez-des-erreurs-avec-les-exceptions>
+* leetcode
+  * easy 100. Same Tree
+  * easy 104. Maximum Depth of Binary Tree
+  * easy 125. Valid Palindrome
+
+# day 85: 2020-03-07
+
+* WilliamFiset YT playlist 
+  * Binary Search Tree Traversal
+  * Binary Search Tree code
+* leet code 206. Reverse Linked List
+
+# day 86: 2020-03-08
+
+* leet code
+  * easy 217. Contains Duplicate
+  * easy 226. Invert Binary Tree
+  * easy 235. Lowest Common Ancestor of a Binary Search Tree
+  * easy 242. Valid Anagram
+  * easy 268. Missing Number
+* WilliamFiset YT playlist 
+  * Hash table hash function
+  * Hash table separate chaining
+
+# day 87: 2020-03-09
+
+* WilliamFiset YT playlist 
+  * Hash table open addressing
+* tried 572. Subtree of Another Tree but leetcode is having some trouble
+* leetcode
+  * easy 572. Subtree of Another Tree
+
+# day 88: 2020-03-10
+
+* leetcode
+  * medium  3. Longest Substring Without Repeating Characters
+  * medium 11. Container With Most Water
+  * easy  167. Two Sum II - Input array is sorted
+  * easy 190. Reverse Bits
+
+# day 89: 2020-03-14
+
+* try to understand manacher algo, but these fucking yt videos suck
+
+# day 89: 2020-03-15
+
+* leetcode 48. Rotate Image (medium)
+
+# day 90: 2020-03-18
+
+* Revision java
+  * video bnans
+  * leetcode two sum
+  * leetcode valid parentheses
+  * leetcode maximum subarray
+* Abdul Bari
+  * Time complexity 1.5.1, 1.5.2, 1.5.3
+
+# day 91: 2020-03-19
+
+* start of leetcode 55. Jump Game (medium), solution timeout on last testcase
+i don't know DP enough, so first let's learn more
+* https://www.hackerearth.com/fr/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/
+* Abdul Bari
+  * 6. intro to backtracking
+  * 6.1 N Queens problem using backtracking
+
+
+# day 92: 2020-03-20
+
+* leetcode 55. Jump Game (medium) (DP but greedy works better)

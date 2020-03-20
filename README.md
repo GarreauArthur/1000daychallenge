@@ -53,6 +53,7 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
     * [ ] dealing with exceptions
     * [ ] Modern C++ programming cookbook <https://subscription.packtpub.com/book/application_development/9781786465184/1>
     * [ ] Advanced C++ <https://subscription.packtpub.com/book/programming/9781838821135>
+    * [ ] sorting
   * [ ] Rust
   * [ ] Go 
   * [ ] haskell
@@ -70,14 +71,26 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
       * [0/3] stack
       * [0/3] queue
       * [0/5] priority queue
-      * [2/5] Union Find
-      * [0/5] binary tree
-      * [0/9] hash table
+      * [5/5] Union Find
+      * [5/5] binary tree
+      * [3/9] hash table
       * [0/4] Fenwick Tree
       * [0/6] Suffix array, prefix
       * [0/1] Balanced Binary search tree rotations
       * [0/3] AVL tree
       * [0/2] Index priority queue
+    * [ ] Abdul Bari <https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O>
+      * [8/17] 1. Intro/analysis
+      * [0/21] 2. Divide and conquer
+      * [0/7] 3. Greedy Method
+      * [0/15] 4. Dynamic programming
+      * [0/2] 5. graph traversals
+      * [2/5] 6. Backtrack
+      * [0/4] 7. Branch and bound
+      * [0/2] 8. NP-hard and NP-complete
+      * [0/2] 9. String matching algo
+      * [0/2] 10. AVL Trees and B, B+ trees
+      * [0/7] Other random videos
     * [ ] <https://www.hackerearth.com/fr/practice/algorithms/>
       * [x] searching
         * [x] linear search
@@ -100,7 +113,7 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
         * [ ] Z algo
         * [ ] Manachar's algo
       * [*] Dynamic programming 
-        * [ ] Intro to DP
+        * [x] Intro to DP
         * [ ] 2 dimen
         * [ ] state space reduction
         * [ ] dp and bit masking
@@ -121,14 +134,15 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
   * [ ] mettre au propre notes sur prolog
   * leetcode
     * [ ] 3/70 <https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU>
-      * [/] easy (25, 27, 31, 35)
-      * [ ] medium (2,3, 4, 5, 6, 10, 11, 12, 14, 15, 16, 18, 20, 22, 23, 24, 26, 28, 33, 34)
-      * [ ] hard (9, 17, 21, 30, 32,)
+      * [/] easy (62)
+      * [/] medium (3, 5, 6, 10, 12, 14, 16, 18, 20, 22, 23, 24, 26, 28, 33, 34, 36, 37, 38, 40, 41, 42, 44, 45, 46)
+      * [ ] hard (9, 17, 21, 30, 32, )
     * [ ] top 50 interview question
       * [x] easy (14/14)
       * [ ] medium (1/28)
       * [ ] hard (1/8)
     * [ ] Microsoft <https://leetcode.com/discuss/interview-question/398023/Microsoft-Online-Assessment-Questions>
+    * [ ] To do again (without help) 51,
 * Game and graphics
   * [ ] Game Engine Serie (10/45 already done)
   * [ ] Watch the OpenGL serie (11/27 already done)
