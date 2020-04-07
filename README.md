@@ -79,11 +79,16 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
       * [0/1] Balanced Binary search tree rotations
       * [0/3] AVL tree
       * [0/2] Index priority queue
+    * [graph theory playlist (WilliamFiset)](https://www.youtube.com/watch?v=eQA-m22wjTQ&list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
+      * [0/22] Graph theory
+      * [0/2] Dynamic Programming
+      * [0/6] algos ???
+      * [0/11] Network flow
     * [ ] Abdul Bari <https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O>
-      * [8/17] 1. Intro/analysis
+      * [9/17] 1. Intro/analysis
       * [0/21] 2. Divide and conquer
       * [0/7] 3. Greedy Method
-      * [0/15] 4. Dynamic programming
+      * [2/15] 4. Dynamic programming
       * [0/2] 5. graph traversals
       * [2/5] 6. Backtrack
       * [0/4] 7. Branch and bound
@@ -133,9 +138,9 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
     * [x] parenthesis problem
   * [ ] mettre au propre notes sur prolog
   * leetcode
-    * [ ] 3/70 <https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU>
+    * [ ] 26/70 <https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU>
       * [/] easy (62)
-      * [/] medium (3, 5, 6, 10, 12, 14, 16, 18, 20, 22, 23, 24, 26, 28, 33, 34, 36, 37, 38, 40, 41, 42, 44, 45, 46)
+      * [/] medium (3, 5, 10, 14, 16, 18, 20, 22, 23, 24, 26, 28, 33, 34, 36, 37, 38, 40, 42, 44, 45, 46)
       * [ ] hard (9, 17, 21, 30, 32, )
     * [ ] top 50 interview question
       * [x] easy (14/14)
@@ -143,6 +148,11 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
       * [ ] hard (1/8)
     * [ ] Microsoft <https://leetcode.com/discuss/interview-question/398023/Microsoft-Online-Assessment-Questions>
     * [ ] To do again (without help) 51,
+      * 51, 416 (medium), 198 house robber DP (easy), 518. Coin Change 2 (medium)
+    * [ ] backtracking and DP
+      * [ ] todo [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
+  * system design
+    * <https://github.com/resumejob/system-design-algorithms>
 * Game and graphics
   * [ ] Game Engine Serie (10/45 already done)
   * [ ] Watch the OpenGL serie (11/27 already done)
@@ -150,11 +160,11 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
   * [ ] WebAssembly 
   * [ ] React
     * [/] The Ninja Net [Complete React Tutorial (& Redux)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG) (15/41)
-    * [/] The Ninja Net [React Context & Hooks](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI) (8/21)
-    * [ ] Power list project
+    * [/] The Ninja Net [React Context & Hooks](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI) (12/21)
+    * [/] Power list project
   * [/] graphQL & prisma
     * [x] graphQL-node tuto
-    * [ ] graphQL-react tuto
+    * [/] graphQL-react tuto
 * Mobile
   * [ ] React-Native
 * AI
