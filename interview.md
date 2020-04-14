@@ -4,6 +4,7 @@
   * [Easy to advanced data structures](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
   * [Algo playlist, lot of videos](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
   * [leetcode amazon question](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions)
+  * [behavioral interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
 * Data structure
   * Array & Matrix
     * [prefix sum](https://youtu.be/pVS3yhlzrlQ)
@@ -16,14 +17,18 @@
     * [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) (medium) opposite two pointers
     * [48. Rotate Image](https://leetcode.com/problems/rotate-image/) (medium)
     * [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) (easy, but not obvious)
+    * [525. Contiguous Array](https://leetcode.com/problems/contiguous-array) (medium)
+      * [solution with thought process](https://leetcode.com/problems/contiguous-array/discuss/577279/C%2B%2B-Crystal-Clear-Explanation)
   * Hash map
     * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (easy) solvable with a hashtable
     * [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) (easy)
+    * [525. Contiguous Array](https://leetcode.com/problems/contiguous-array) (medium) use a unordered_map
   * Strings
     * [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
     * [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) (easy)
     * [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (medium)
     * [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) (medium)
+    * [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) (easy)
   * Linked list
     * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
     * [find merge point of two lists](https://stackoverflow.com/a/14956113/6417344)
@@ -32,9 +37,12 @@
       * [idea video](https://youtu.be/MFOAbpfrJ8g)
       * [proof](https://stackoverflow.com/a/16053582/6417344)
     * [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) (medium)
+    * [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) (easy) (two pointers)
   * Queue
     * Breadth First Search
       * (amazon) [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+  * Priority Queue
+    * [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) (easy)
   * Stack
     * [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) (simple)
     * Depth First Search
@@ -55,6 +63,8 @@
       * [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (easy)
       * [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) (easy) 
       * [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+      * [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) (medium)
+      * [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) (easy)
     * Binary Search trees
       * [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
       * [sqrt(x)](https://leetcode.com/problems/sqrtx/) with binary search
@@ -64,6 +74,7 @@
     * Tries (digital tree or prefix tree)
       * [ ] [208. Implement Trie (prefix tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
       * [boggle](https://www.geeksforgeeks.org/boggle-set-2-using-trie/)
+    * red and black trees
     * heaps
       * [ ] [learning to love heaps](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238)
       * [ ] heap in c++ <https://www.fluentcpp.com/2018/03/13/heaps-priority-queues-stl-part-1/>
@@ -90,9 +101,12 @@
         * [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (medium)
         * [ ] [26. Remove Duplicates from sorted array]()
         * [202. Happy Number](https://leetcode.com/problems/happy-number/) "hidden 2 pointers" (easy (not really))
+        * [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) (easy) (fast and slow)
   * Graph
     * Depth First Search
+      * [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) (easy)
     * Breadth First search
+      * [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) (medium)
     * Dijkstra, A*, D*
     * Kruskal
       * [Idea, uses union find](https://youtu.be/JZBQLXgSGfs)
@@ -137,7 +151,7 @@
     * Boggle <https://www.geeksforgeeks.org/boggle-find-possible-words-board-characters/>
     * Boyer-Moore - Pattern Matching
       * Partial boyer-moore <https://youtu.be/ZMQWjslBlbU>
-    * [windo algorithm substring search](https://leetcode.com/problems/find-all-anagrams-in-a-string/discuss/92007/sliding-window-algorithm-template-to-solve-all-the-leetcode-substring-search-problem)
+    * [window algorithm substring search](https://leetcode.com/problems/find-all-anagrams-in-a-string/discuss/92007/sliding-window-algorithm-template-to-solve-all-the-leetcode-substring-search-problem)
   * Binary
     * bits, bytes
       * [sqrt(x)](https://leetcode.com/problems/sqrtx/) with binary search

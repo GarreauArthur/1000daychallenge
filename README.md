@@ -63,6 +63,7 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
       * [*] Promises, async/await  <https://javascript.info/async>
     * [ ] closure <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures>
   * [ ] learn to create nodejs addons
+  * [ ] [behavioral interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
   * [ ] algo & data structure
     * [ ] <https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction>
     * [ ] WilliamFiset yt playlist <https://www.youtube.com/watch?v=Qmt0QwzEmh0&list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu>
@@ -149,6 +150,7 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
     * [ ] Microsoft <https://leetcode.com/discuss/interview-question/398023/Microsoft-Online-Assessment-Questions>
     * [ ] To do again (without help) 51,
       * 51, 416 (medium), 198 house robber DP (easy), 518. Coin Change 2 (medium)
+      * DFS [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) (easy)
     * [ ] backtracking and DP
       * [ ] todo [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
   * system design

@@ -1,4 +1,4 @@
-110
+116
 
 # day 101: 2020-03-29
 
@@ -64,3 +64,36 @@
 # day 110: 2020-04-07
 
 * leetcode april day 7 : Counting elements
+* idk i have a key for fb05ee04-1888-406b-84d7-ead6bea633a5 for https://www.educative.io/courses/grokking-the-behavioral-interview
+
+# day 111: 2020-04-08
+
+* leetcode april day 8 : 876. Middle of the Linked List
+* c++ notes on `(unordered_)multi(map/set)`
+
+# day 112: 2020-04-09
+
+* leetcode april day 9 : 844. Backspace String Compare
+* did you know: vector.pop_back() then vector.push_back() creates a segmentation fault
+* powerlist #14
+
+# day 113: 2020-04-10
+
+* leetcode april day 10: 155. Min Stack
+* 515. Find Largest Value in Each Tree Row
+* powerlist #27
+
+# day 114: 2020-04-11
+
+* (april day 11) [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) (easy) (to do again because i really didn't want to do it)
+* setting up server for apicreatif jore.cravic.earth
+
+# day 115: 2020-04-12
+
+* leetcode april day 12 1046. Last Stone Weight
+
+
+
+# day 116: 2020-04-13
+
+* leetcode april day 13 525. Contiguous Array (medium)
