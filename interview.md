@@ -1,3 +1,10 @@
+30 minutes:
+* 10 min to think about the problem, draw, try examples, find edge cases = gather
+as much information as possible
+* 10 min to find a solution
+* 10 min to implement
+* if not solved look at solution, and learn from it
+
 * general resources
   * [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
   * [list of challenges and solutions](https://github.com/donnemartin/interactive-coding-challenges)
@@ -5,9 +12,13 @@
   * [Algo playlist, lot of videos](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
   * [leetcode amazon question](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions)
   * [behavioral interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
+  * [git repo with all the basic you need to know](https://github.com/kdn251/interviews)
 * Data structure
   * Array & Matrix
+    * type: pre/sufix, two pointers, BFS/DFS, DP, Kadane
+    * [53. maximum sum subarray](https://leetcode.com/problems/maximum-subarray/) (easy)
     * [prefix sum](https://youtu.be/pVS3yhlzrlQ)
+    * [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) (medium) prefix, suffix
     * Kadane's Algo, maximum sum subarray (cf Dynamic Programming)
     * [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
     * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (easy) use a hashtable
@@ -19,6 +30,7 @@
     * [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) (easy, but not obvious)
     * [525. Contiguous Array](https://leetcode.com/problems/contiguous-array) (medium)
       * [solution with thought process](https://leetcode.com/problems/contiguous-array/discuss/577279/C%2B%2B-Crystal-Clear-Explanation)
+    * [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) (medium) binary search
   * Hash map
     * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (easy) solvable with a hashtable
     * [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) (easy)
@@ -29,15 +41,18 @@
     * [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (medium)
     * [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) (medium)
     * [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) (easy)
+    * [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) (medium)
   * Linked list
-    * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+    * type: two pointers, recursion
+    * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) (easy) TO KNOW
     * [find merge point of two lists](https://stackoverflow.com/a/14956113/6417344)
     * [141. Linked List cycle](https://leetcode.com/problems/linked-list-cycle/)
       * solve with slow and fast pointers
       * [idea video](https://youtu.be/MFOAbpfrJ8g)
       * [proof](https://stackoverflow.com/a/16053582/6417344)
     * [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) (medium)
-    * [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) (easy) (two pointers)
+    * [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) (easy) (two pointers) To know
+    * [143. Reorder List](https://leetcode.com/problems/reorder-list/) (medium) middle + reverse or recursion
   * Queue
     * Breadth First Search
       * (amazon) [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
@@ -65,6 +80,7 @@
       * [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
       * [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) (medium)
       * [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) (easy)
+      * [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) (medium)
     * Binary Search trees
       * [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
       * [sqrt(x)](https://leetcode.com/problems/sqrtx/) with binary search
@@ -72,12 +88,14 @@
     * B-trees
     * B+ tree
     * Tries (digital tree or prefix tree)
-      * [ ] [208. Implement Trie (prefix tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+      * [208. Implement Trie (prefix tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
       * [boggle](https://www.geeksforgeeks.org/boggle-set-2-using-trie/)
     * red and black trees
     * heaps
+      * [2.6.3 Heap - Heap Sort - Heapify - Priority Queues](https://youtu.be/HqPJF2L5h9U)
       * [ ] [learning to love heaps](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238)
-      * [ ] heap in c++ <https://www.fluentcpp.com/2018/03/13/heaps-priority-queues-stl-part-1/>
+      * heap in c++ <https://www.fluentcpp.com/2018/03/13/heaps-priority-queues-stl-part-1/>
+    * AVL Trees
   * Union Find (also called disjoint set)
     * [intro](https://www.youtube.com/watch?v=ibjEGG7ylHk)
     * [union and find operation](https://youtu.be/0jNmHPfA_yE)
@@ -85,6 +103,7 @@
   * [Searching](https://www.hackerearth.com/fr/practice/algorithms/searching/)
     * linear search
     * binary search (dichotomy)
+      * [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) (medium)
     * ternary search
     * Two pointer algo
       * Opposite directional
@@ -105,6 +124,7 @@
   * Graph
     * Depth First Search
       * [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) (easy)
+      * [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) (medium)
     * Breadth First search
       * [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) (medium)
     * Dijkstra, A*, D*

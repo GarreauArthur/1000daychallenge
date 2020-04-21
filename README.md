@@ -65,6 +65,7 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
   * [ ] learn to create nodejs addons
   * [ ] [behavioral interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
   * [ ] algo & data structure
+    * [amortized analysis](https://youtu.be/T7W5E-5mljc)
     * [ ] <https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction>
     * [ ] WilliamFiset yt playlist <https://www.youtube.com/watch?v=Qmt0QwzEmh0&list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu>
       * [0/2] Dynamic and static arrays
@@ -86,7 +87,7 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
       * [0/6] algos ???
       * [0/11] Network flow
     * [ ] Abdul Bari <https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O>
-      * [9/17] 1. Intro/analysis
+      * [17/17] 1. Intro/analysis
       * [0/21] 2. Divide and conquer
       * [0/7] 3. Greedy Method
       * [2/15] 4. Dynamic programming
@@ -139,9 +140,9 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
     * [x] parenthesis problem
   * [ ] mettre au propre notes sur prolog
   * leetcode
-    * [ ] 26/70 <https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU>
+    * [ ] 27/70 <https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU>
       * [/] easy (62)
-      * [/] medium (3, 5, 10, 14, 16, 18, 20, 22, 23, 24, 26, 28, 33, 34, 36, 37, 38, 40, 42, 44, 45, 46)
+      * [/] medium (3, 5, 10, 14, 16, 18, 20, 22, 23, 24, 26, 28, 33, 34, 37, 38, 40, 42, 44, 45, 46)
       * [ ] hard (9, 17, 21, 30, 32, )
     * [ ] top 50 interview question
       * [x] easy (14/14)
@@ -151,8 +152,10 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
     * [ ] To do again (without help) 51,
       * 51, 416 (medium), 198 house robber DP (easy), 518. Coin Change 2 (medium)
       * DFS [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) (easy)
+      * https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
     * [ ] backtracking and DP
       * [ ] todo [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
+    * [ ] Knuth-Morris-Pratt 796. Rotate String
   * system design
     * <https://github.com/resumejob/system-design-algorithms>
 * Game and graphics
