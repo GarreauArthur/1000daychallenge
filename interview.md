@@ -31,10 +31,15 @@ as much information as possible
     * [525. Contiguous Array](https://leetcode.com/problems/contiguous-array) (medium)
       * [solution with thought process](https://leetcode.com/problems/contiguous-array/discuss/577279/C%2B%2B-Crystal-Clear-Explanation)
     * [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) (medium) binary search
+    * [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) (medium) prefix + hashmap
+    * [169. Majority Element](https://leetcode.com/problems/majority-element/) (easy) Boyer-Moore Voting Algorithm
+    * [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) (easy)
+    * [733. Flood Fill](https://leetcode.com/problems/flood-fill/) (easy) dfs/bfs
   * Hash map
     * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (easy) solvable with a hashtable
     * [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) (easy)
     * [525. Contiguous Array](https://leetcode.com/problems/contiguous-array) (medium) use a unordered_map
+    * [383. Ransom Note](https://leetcode.com/problems/ransom-note/)
   * Strings
     * [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
     * [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) (easy)
@@ -42,6 +47,8 @@ as much information as possible
     * [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) (medium)
     * [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) (easy)
     * [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) (medium)
+    * [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) (easy)
+    * [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) (easy)
   * Linked list
     * type: two pointers, recursion
     * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) (easy) TO KNOW
@@ -53,6 +60,8 @@ as much information as possible
     * [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) (medium)
     * [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) (easy) (two pointers) To know
     * [143. Reorder List](https://leetcode.com/problems/reorder-list/) (medium) middle + reverse or recursion
+  * Deque (doubly linked list)
+    * [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
   * Queue
     * Breadth First Search
       * (amazon) [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
@@ -81,6 +90,8 @@ as much information as possible
       * [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) (medium)
       * [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) (easy)
       * [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) (medium)
+      * [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) (easy) DFS/BFS/recursion
+      * [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) (easy) DFS
     * Binary Search trees
       * [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
       * [sqrt(x)](https://leetcode.com/problems/sqrtx/) with binary search
@@ -103,7 +114,10 @@ as much information as possible
   * [Searching](https://www.hackerearth.com/fr/practice/algorithms/searching/)
     * linear search
     * binary search (dichotomy)
+      * [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
       * [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) (medium)
+      * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) (easy)
+      * [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) (medium)
     * ternary search
     * Two pointer algo
       * Opposite directional
@@ -124,9 +138,12 @@ as much information as possible
   * Graph
     * Depth First Search
       * [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) (easy)
+      * [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) (easy) DFS
       * [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) (medium)
+      * [733. Flood Fill](https://leetcode.com/problems/flood-fill/) (easy) dfs/bfs
     * Breadth First search
       * [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) (medium)
+      * [733. Flood Fill](https://leetcode.com/problems/flood-fill/) (easy) dfs/bfs
     * Dijkstra, A*, D*
     * Kruskal
       * [Idea, uses union find](https://youtu.be/JZBQLXgSGfs)
@@ -159,9 +176,12 @@ as much information as possible
     * [322. Coin Change](https://leetcode.com/problems/coin-change/) (medium) pattern 1
     * [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) (medium) pattern 1
     * [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) (medium) pattern 1
+    * [221. Maximal Square](https://leetcode.com/problems/maximal-square/) (medium) pattern 1
     * [62. Unique Paths](https://leetcode.com/problems/unique-paths/) (medium) pattern 2
     * [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) (medium) pattern 2
     * [1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) (medium but pretty hard) pattern 2
+    * [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) (medium) pattern 4, but similar to pattern 5 (use or not)
+      * [great explanation (BtoB SWE)](https://youtu.be/ASoaQq66foQ)
     * [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/) (medium) pattern 5
       * [video explanation intuition](https://youtu.be/DJ4a7cmjZY0)
     * [198. House Robber](https://leetcode.com/problems/house-robber/) (easy) pattern 5
@@ -174,9 +194,13 @@ as much information as possible
     * [window algorithm substring search](https://leetcode.com/problems/find-all-anagrams-in-a-string/discuss/92007/sliding-window-algorithm-template-to-solve-all-the-leetcode-substring-search-problem)
   * Binary
     * bits, bytes
-      * [sqrt(x)](https://leetcode.com/problems/sqrtx/) with binary search
+      * <https://yangshun.github.io/tech-interview-handbook/algorithms/binary/>
       * [268. Missing Number](https://leetcode.com/problems/missing-number/) (easy)
       * [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) (easy)
+      * [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) (medium)
+      * [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
+  * Array
+    * [Boyer-Moore Voting Algorithm](https://youtu.be/n5QY3x_GNDg)
   * [ ] Interval
 * Design
   * UML
@@ -199,6 +223,7 @@ as much information as possible
       * [ ] Trie algorithm
     * [ ] load balancers
     * [ ] cache
+      * [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
     * [ ] sharding
     * [ ] proxy
     * [ ] microservices

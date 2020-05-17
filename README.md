@@ -153,6 +153,7 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
       * 51, 416 (medium), 198 house robber DP (easy), 518. Coin Change 2 (medium)
       * DFS [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) (easy)
       * https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
+      * finish [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
     * [ ] backtracking and DP
       * [ ] todo [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
     * [ ] Knuth-Morris-Pratt 796. Rotate String

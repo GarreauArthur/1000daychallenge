@@ -1,4 +1,4 @@
-123
+143
 
 # day 101: 2020-03-29
 
@@ -147,3 +147,108 @@
   * 1008. Construct Binary Search Tree from Preorder Traversal
 * magicinput
   
+# day 124: 2020-04-22
+
+* april leetcode day 22 560. Subarray Sum Equals K
+
+# day 125: 2020-04-23
+
+* april leetcode day 23 - 201. Bitwise AND of Numbers Range
+* tried 69. Sqrt(x) again, but i am too bad at programming to do it :(, I need to step up, like come on, it's not even hard
+
+
+# day 126: 2020-04-24
+
+* poquelinades tuto
+* leetcode april [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
+
+# day 127: 2020-04-25
+
+* leetcode april already done (dynami)
+* 101. Symmetric Tree
+
+# day 128: 2020-04-26
+
+* leetcode april day 26 Longest Common Subsequence
+  * [great explanation (BtoB SWE)](https://youtu.be/ASoaQq66foQ)
+
+# day 129: 2020-04-27
+
+* leetcode april day 27 221. Maximal Square
+
+FINIR DP
+* pattern 3,
+  * finish notes
+  * complete leetcode problem
+* pattern 4,
+  * take notes
+  * longest common subsequences as an example
+* pattern 5,
+* [ ] 
+
+* https://youtu.be/YBSt1jYwVfU
+
+# day 130: 2020-04-28
+
+* leetcode day 28 first unique number
+
+# day 131: 2020-04-29
+
+* [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) (hard)
+* leetcode slides https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/ but then read that https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/discuss/339959/One-Pass-O(N)-Time-and-Space
+
+# day 132: 2020-04-30
+
+* leetcode day 30, "Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree"
+
+# day 133: 2020-05-01
+
+* may day 1 [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
+
+# day 134: 2020-05-02
+
+* may day 2 https://leetcode.com/problems/jewels-and-stones/
+
+# day 135: 2020-05-03
+
+* may day 3 383. Ransom Note
+
+# day 136: 2020-05-04
+
+* may day 4 similar to https://leetcode.com/problems/complement-of-base-10-integer/ (also did this question)
+* deploy log lespoquelinades
+* schema magic input
+
+# day 137: 2020-05-05
+
+* may day 5 - 387. First Unique Character in a String
+
+# day 138: 2020-05-06
+
+* may day 6 - 169. Majority Element
+* Boyer-moore voting algo
+* a lil bit of work on magic input
+
+# day 139: 2020-05-07
+
+* may day 7 - 993. Cousins in Binary Tree
+* thinking about magic input, front and back dir, github project, copy labels
+
+# day 140: 2020-05-08
+
+* may day 8 1232. Check If It Is a Straight Line
+
+# day 141: 2020-05-10
+
+* may day 10: 997. Find the Town Judge
+
+# day 142: 2020-05-11
+
+* may day 11: 733. Flood Fill
+
+
+# day 143: 2020-05-12
+
+* may day 12 - Single Element in a Sorted Array
+
+
