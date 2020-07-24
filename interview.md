@@ -77,6 +77,7 @@ as much information as possible
       * [video solution](https://youtu.be/VNbkzsnllsU)
       * [leetcode](https://leetcode.com/problems/largest-rectangle-in-histogram/)
       * [hackerrank](https://www.hackerrank.com/challenges/largest-rectangle/problem)
+    * [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) (medium)
   * Graph
     * [graph theory playlist (WilliamFiset)](https://www.youtube.com/watch?v=eQA-m22wjTQ&list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
   * Trees
@@ -92,6 +93,7 @@ as much information as possible
       * [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) (medium)
       * [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) (easy) DFS/BFS/recursion
       * [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) (easy) DFS
+      * [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) (easy)
     * Binary Search trees
       * [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
       * [sqrt(x)](https://leetcode.com/problems/sqrtx/) with binary search
@@ -141,21 +143,29 @@ as much information as possible
       * [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) (easy) DFS
       * [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) (medium)
       * [733. Flood Fill](https://leetcode.com/problems/flood-fill/) (easy) dfs/bfs
+      * [79. Word Search](https://leetcode.com/problems/word-search/) (medium)
+      * [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) (medium) backtracking recursive dfs
     * Breadth First search
       * [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) (medium)
       * [733. Flood Fill](https://leetcode.com/problems/flood-fill/) (easy) dfs/bfs
+      * [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) (easy)
     * Dijkstra, A*, D*
     * Kruskal
       * [Idea, uses union find](https://youtu.be/JZBQLXgSGfs)
     * Prim
     * Topological sort
   * Recursion
+  * Optimization
+    * Greedy method
+    * Dynamic Programming
+    * Branch and bound
   * Backtracking
+    * [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) (medium) Good one, recursive dfs
     * [alreay done on hackerrank] [Sudoku](https://leetcode.com/problems/sudoku-solver/) (hard)
     * [REDO AGAIN] - [N Queen](https://leetcode.com/problems/n-queens/) (hard)
       * [main idea](https://youtu.be/xFv_Hl4B83A)
       * [solution explained](https://youtu.be/wGbuCyNpxIg)
-    * [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+    * [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) (medium)
     * [ ] todo [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
     * [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) (medium)
     * m coloring problem
@@ -194,17 +204,48 @@ as much information as possible
     * [window algorithm substring search](https://leetcode.com/problems/find-all-anagrams-in-a-string/discuss/92007/sliding-window-algorithm-template-to-solve-all-the-leetcode-substring-search-problem)
   * Binary
     * bits, bytes
+      * <https://leetcode.com/tag/bit-manipulation/>
       * <https://yangshun.github.io/tech-interview-handbook/algorithms/binary/>
       * [268. Missing Number](https://leetcode.com/problems/missing-number/) (easy)
       * [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) (easy)
       * [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) (medium)
       * [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
+      * [136. Single Number](https://leetcode.com/problems/single-number/) (easy)
+      * [ ] [137. Single Number II](https://leetcode.com/problems/single-number-ii/) (medium)
+      * [260. Single Number III](https://leetcode.com/problems/single-number-iii/) (medium)
   * Array
     * [Boyer-Moore Voting Algorithm](https://youtu.be/n5QY3x_GNDg)
   * [ ] Interval
+    * [ ] [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) (medium)
+    * [ ] [57. Insert Interval](https://leetcode.com/problems/insert-interval/) (hard)
 * Design
   * UML
-  * Design Pattern
+  * Design Pattern <https://refactoring.guru>
+    * Creational
+      * [ ] factory method
+      * [ ] abstract factory
+      * [ ] builder
+      * [ ] prototype
+      * [ ] singleton
+    * Structural
+      * [ ] adapter
+      * [ ] bridge
+      * [ ] composte
+      * [ ] decorator
+      * [ ] facade
+      * [ ] flyweight
+      * [ ] proxy
+    * Behavioral
+      * [ ] chain of responsability
+      * [ ] command
+      * [ ] iterator
+      * [ ] mediator
+      * [ ] momento
+      * [x] observer
+      * [ ] state
+      * [ ] strategy
+      * [ ] template method
+      * [ ] visitor
   * System Design
     * [ ] <https://www.hiredintech.com/courses/system-design>
     * <https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u>

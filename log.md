@@ -1,4 +1,4 @@
-143
+182
 
 # day 101: 2020-03-29
 
@@ -250,5 +250,245 @@ FINIR DP
 # day 143: 2020-05-12
 
 * may day 12 - Single Element in a Sorted Array
+
+# day 144: 2020-05-17
+
+* update to ubuntu 18 (to be ready for the next lts in june)
+
+# day 145: 2020-05-19
+
+* regarder vite fais electron
+* revision graphql
+
+# day 146: 2020-05-20
+
+* learning more about graphql
+  * https://graphql.org/learn/queries/
+  * https://graphql.org/learn/schema/
+* let's learn TypeScript (should be useful)
+
+# day 147: 2020-05-22
+
+* starting to set up prisma 2 (look way harder than prisma 1, like wtf prisma 1 was so easy)
+
+# day 148: 2020-05-23
+
+* setting up prisma (and typescript)
+
+# day 149: 2020-05-24
+
+* saw this [The Async Await Episode I Promised](https://youtu.be/vn3tm0quoqE)
+* try if prisma client worked, it works
+* [What is OAuth really all about](https://youtu.be/t4-416mg6iU)
+
+# day 150: 2020-05-28
+
+* magic input us 4
+
+# day 151: 2020-05-30
+
+* magic input us 7
+
+# day 152: 2020-05-31
+
+* magic input us 7
+
+# day 153: 2020-06-01
+
+* magic input us 8
+
+# day 154: 2020-06-03
+
+* intership day 1
+* ok now, I need to get back to the leetcode/cs grind too, but it so annoying
+  * goal 2 leetcode a week for (2 weeks), then 3 or 4 (1 every 2 days)
+  * and project otherwise
+
+# day 155: 2020-06-04
+
+* abdul bari   3. Greedy Method - Introduction
+* 3.1 Fractional Knapsack Problem - Greedy Method
+
+todo:
+  * regarder video https://youtu.be/aL6cU5dWmWM
+  * revoir https://youtu.be/xCbYmUPvc2Q
+  * prendre note sur DP pattern 0/1 knapsack (decision making 5th pattern)
+
+# day 156: 2020-06-06
+
+* trying to centrelazied my notes on the ipad
+
+# day 157: 2020-06-07
+
+* installation ubuntu 20.04 LTS
+
+# day 158: 2020-06-08
+
+* learning about (internship)
+  * spring/spring boot (took notes in kl) https://youtu.be/vtPkZShrvXQ
+  * dependency injection
+  * angular
+    * [x] fireship tuto <https://youtu.be/G0bBLvWXBvc>
+    * [x] javascript es6 (relire notes + finir notes kl)
+      * scrimba.com Classes
+    * [ ] typescript <https://youtu.be/WBPrJSw7yQA>
+    * [ ] openclassroom
+
+# day 159: 2020-06-09
+
+* angular openclassroom
+  * component
+  * données dynamique
+  * directives
+  * pipes
+  * quiz 1
+  * service
+  * routing
+  * rxjs
+  
+# day 160: 2020-06-10
+
+* angular
+  * form template, reactive
+  * HttpClient
+* btschurch haha (small angular project to learn)
+
+# day 161: 2020-06-11
+
+* révision python https://www.stavros.io/tutorials/python/
+* début notes sur les design patterns (adapter)
+
+# day 162: 2020-06-12
+
+* modif article statistical toolset
+* to watch The future of tech <https://www.pscp.tv/Microsoft/1OyKAYWPRrWKb>
+* mise à jour de nvidia, pour essayer de mettre en place le projet neuralnet, avec le container docker tensorflow
+
+monkaW
+* [OpenAI model generates python code](https://youtu.be/fZSFNUT6iY8)
+* <https://openai.com/blog/openai-api/>
+
+* <https://github.com/ibm/clai> <https://www.youtube.com/watch?v=_5kPJMOqJTE>
+
+# day 163: 2020-06-13
+
+* revision numpy
+* firebase - ultimate beginner's guide (fireship)
+
+# day 164: 2020-06-14
+
+goal create a small web app, based on firebase and angular (to learn firebase,
+and start a real project with angular)
+
+* positive-posts: a social media where you should be positive, post about what
+you like, what you did great, you can like or dislike a post, if a post has
+too many dislike, it will be hidden
+* prise de tête avec material ui, donc installation de bootstrap
+
+# day 165: 2020-06-18
+
+* [intro to mongodb in 18 minutes](https://youtu.be/bKjH8WhSu_E)
+
+# day 166: 2020-06-21
+
+* bought refactoring.guru design pattern ebook, to force myself to read it
+* RxJS <https://youtu.be/2LCo926NFLI>
+
+# day 167: 2020-06-23
+
+* a lil bit of work on positiv post
+
+# day 168: 2020-06-24
+
+* a lil bit of work on positiv post
+* positive posts is too much for me, angular + angular/fire + firebase, I am lost,
+the doc kindda sucks for angular/fire, I need to get rid of angular/fire, make
+things a lil bit easier for me
+  * I will follow openclassroom tuto, because i don't know shit about firebase,
+and barely know angular, it's too hard right now, but i still want to try to learn
+to use firebase, and have a project on github you know what i am saying
+
+todo:
+ perso
+* notes sur les design pattern, adapter, observer, iterator, https://mvcs.io/
+* projet angular rapide
+  * recommencer en suivant le tuto de openclassroom
+  * regarder ça avant de faire quoique ce soit avec firebase deploy angular to fireshipt https://youtu.be/aICeVhu2mAE
+  * regarder ça https://youtu.be/v_hR4K4auoQ
+  * faire l'archi en angular
+  * revoir début fireship
+lire https://nav.al/life-formulas-i
+
+stage finir lire ça <https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607>
+https://www.youtube.com/watch?v=BH9mlmdXzzI&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b&index=4
+
+# day 169: 2020-06-25
+
+* 30 first min of openclassroom tuto
+
+# day 170: 2020-06-28
+
+* observer pattern
+* angular openclassroom observer les données avec rxjs
+
+# day 171: 2020-07-06
+
+* leetcode easy 118. Pascal's Triangle
+
+# day 172: 2020-07-08
+
+* positive-work, starting to play with the database
+
+# day 173: 2020-07-10
+
+* revision RNN
+  * http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+# day 174: 2020-07-12
+
+* positive-post, first useable version (might stop now)
+
+# day 175: 2020-07-13
+
+* j'ai rush à la fin parce que j'ai pas trouvé ça très clair : <https://distill.pub/2016/augmented-rnns/>
+
+# day 176: 2020-07-14
+
+* 503. Next Greater Element II
++ diapo pour video parce que je suis hypé par les retours sur la première vidéo
+
+# day 177: 2020-07-16
+
+* trying to understand 1130. Minimum Cost Tree From Leaf Values, stack solution
+but it's pretty dank
+
+# day 178: 2020-07-18
+
+* I can't do leetcode question anymore help :'(, failed to do this : 110. Balanced Binary Tree
+I don't want to do it, but because I am so bad i need to force myself doing these anoying interview questions
+* I fucking did it you son of bitch : 110. Balanced Binary Tree
+
+# day 179: 2020-07-19
+
+* going back to magic input, been more than a month
+us5 setting up apollo client (version 3 just came out)
+
+# day 180: 2020-07-22
+
+* not done (45min on it) - pass 20/33 - leetcode 103. Binary Tree Zigzag Level Order Traversal (medium)
+* leetcode 79. Word Search (medium, dfs)
+
+# day 181: 2020-07-23
+
+* 260. Single Number III - https://leetcode.com/problems/single-number-iii/
+* 136. single number (using xor)
+
+# day 182: 2020-07-24
+
+* 797. All Paths From Source to Target (medium)
+* statquest - Covariance and Correlation Part 1: Covariance
+* statquest - Statistics Fundamentals: The Mean, Variance and Standard Deviation
+* 441. Arranging Coins (easy)
+* 107. Binary Tree Level Order Traversal II (easy)
 
 

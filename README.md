@@ -27,6 +27,17 @@ CS or SE: it can be anything, programming, AI, games, algo, theory, data, dev op
 
 * finir de lire ça <https://www.gremlin.com/chaos-monkey/the-origin-of-chaos-monkey/#chaos-monkey-today>
 
+## NEAR GOALS/TODO
+
+* mvp magic input
+* interview
+  * optimization problem (greedy, knapsack, ...)
+  * dynamic programming patterns
+  * sorting algo
+  * strings algo
+  * intervals
+  * advanced data structures
+
 ## things to do/learn
 
 these may just be random ideas
@@ -57,11 +68,6 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
   * [ ] Rust
   * [ ] Go 
   * [ ] haskell
-  * [ ] javascript
-    * [ ] Learn more - [The Modern JavaScript Tutorial](https://javascript.info/)
-      * [ ] "use strict" <https://javascript.info/strict-mode>
-      * [*] Promises, async/await  <https://javascript.info/async>
-    * [ ] closure <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures>
   * [ ] learn to create nodejs addons
   * [ ] [behavioral interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
   * [ ] algo & data structure
@@ -89,7 +95,7 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
     * [ ] Abdul Bari <https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O>
       * [17/17] 1. Intro/analysis
       * [0/21] 2. Divide and conquer
-      * [0/7] 3. Greedy Method
+      * [1/7] 3. Greedy Method
       * [2/15] 4. Dynamic programming
       * [0/2] 5. graph traversals
       * [2/5] 6. Backtrack
@@ -112,7 +118,7 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
         * [ ] counting sort
         * [ ] radix sort
         * [ ] heap sort
-        * [ ] buck sort
+        * [ ] buck sort <https://www.programiz.com/dsa/bucket-sort>
       * [ ] graphs
       * [ ] string algo
         * [ ] basic of string manipulation
@@ -159,6 +165,9 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
     * [ ] Knuth-Morris-Pratt 796. Rotate String
   * system design
     * <https://github.com/resumejob/system-design-algorithms>
+  * design
+    * [design patterns](https://refactoring.guru/)
+    * https://solidbook.io
 * Game and graphics
   * [ ] Game Engine Serie (10/45 already done)
   * [ ] Watch the OpenGL serie (11/27 already done)
@@ -171,6 +180,15 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
   * [/] graphQL & prisma
     * [x] graphQL-node tuto
     * [/] graphQL-react tuto
+  * [ ] javascript
+    * [ ] Learn more - [The Modern JavaScript Tutorial](https://javascript.info/)
+      * [ ] "use strict" <https://javascript.info/strict-mode>
+      * [*] Promises, async/await  <https://javascript.info/async>
+    * [ ] closure <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures>
+  * [ ] angular (intership need it)
+  * [ ] scss (seems pretty cool and easy to learn)
+  * [ ] after scss sass
+  * [ ] svg animation <https://css-tricks.com/guide-svg-animations-smil/>
 * Mobile
   * [ ] React-Native
 * AI
