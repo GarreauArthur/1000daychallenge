@@ -13,9 +13,11 @@ as much information as possible
   * [leetcode amazon question](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions)
   * [behavioral interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
   * [git repo with all the basic you need to know](https://github.com/kdn251/interviews)
+  * [Learn DS & algo, nice visuals](https://www.programiz.com/dsa)
 * Data structure
   * Array & Matrix
     * type: pre/sufix, two pointers, BFS/DFS, DP, Kadane
+    * [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) (easy) nothing much too see
     * [53. maximum sum subarray](https://leetcode.com/problems/maximum-subarray/) (easy)
     * [prefix sum](https://youtu.be/pVS3yhlzrlQ)
     * [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) (medium) prefix, suffix
@@ -35,13 +37,17 @@ as much information as possible
     * [169. Majority Element](https://leetcode.com/problems/majority-element/) (easy) Boyer-Moore Voting Algorithm
     * [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) (easy)
     * [733. Flood Fill](https://leetcode.com/problems/flood-fill/) (easy) dfs/bfs
+    * [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) (medium) way too dank, need to use/modify the input
   * Hash map
     * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (easy) solvable with a hashtable
     * [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) (easy)
     * [525. Contiguous Array](https://leetcode.com/problems/contiguous-array) (medium) use a unordered_map
     * [383. Ransom Note](https://leetcode.com/problems/ransom-note/)
   * Strings
-    * [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+    * [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) (easy) nothing really interesting
+    * [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) (easy)
+    * [520. Detect Capital](https://leetcode.com/problems/detect-capital/) (easy) not really interesting
+    * [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) (easy)
     * [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) (easy)
     * [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (medium)
     * [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) (medium)
@@ -63,6 +69,7 @@ as much information as possible
   * Deque (doubly linked list)
     * [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
   * Queue
+    * [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) (easy, but not that easy), not optimal solution ?
     * Breadth First Search
       * (amazon) [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
   * Priority Queue
@@ -94,9 +101,11 @@ as much information as possible
       * [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) (easy) DFS/BFS/recursion
       * [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) (easy) DFS
       * [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) (easy)
+      * [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) (medium) dfs
     * Binary Search trees
       * [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
       * [sqrt(x)](https://leetcode.com/problems/sqrtx/) with binary search
+      * [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
     * rope or cord (sort of binary tree)
     * B-trees
     * B+ tree
@@ -112,6 +121,9 @@ as much information as possible
   * Union Find (also called disjoint set)
     * [intro](https://www.youtube.com/watch?v=ibjEGG7ylHk)
     * [union and find operation](https://youtu.be/0jNmHPfA_yE)
+* Math problems
+  * [258. Add Digits](https://leetcode.com/problems/add-digits/)
+  * [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) (easy)
 * Algo
   * [Searching](https://www.hackerearth.com/fr/practice/algorithms/searching/)
     * linear search
@@ -145,6 +157,8 @@ as much information as possible
       * [733. Flood Fill](https://leetcode.com/problems/flood-fill/) (easy) dfs/bfs
       * [79. Word Search](https://leetcode.com/problems/word-search/) (medium)
       * [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) (medium) backtracking recursive dfs
+      * [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
+      * [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) (medium) dfs
     * Breadth First search
       * [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) (medium)
       * [733. Flood Fill](https://leetcode.com/problems/flood-fill/) (easy) dfs/bfs
@@ -182,6 +196,7 @@ as much information as possible
     * [53. maximum sum subarray](https://leetcode.com/problems/maximum-subarray/) (easy)
       * [Kadane's algo](https://youtu.be/86CQq3pKSUw)
     * [55. Jump Game](https://leetcode.com/problems/jump-game/) (medium)
+    * [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) (easy) pattern 1
     * [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) (medium) pattern 1
     * [322. Coin Change](https://leetcode.com/problems/coin-change/) (medium) pattern 1
     * [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) (medium) pattern 1
@@ -196,23 +211,45 @@ as much information as possible
       * [video explanation intuition](https://youtu.be/DJ4a7cmjZY0)
     * [198. House Robber](https://leetcode.com/problems/house-robber/) (easy) pattern 5
       * [nice article about approaching DP problems](https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems.)
+    * [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) (medium but struggle a lot on it) (pattern 5 ? state machine)
+      * [Explication](https://youtu.be/pkiJyNijgBw)
   * Sorting
+    * Bubble sort
+      * <https://www.programiz.com/dsa/bubble-sort>
+    * Selection sort
+      * <https://www.programiz.com/dsa/selection-sort>
+    * Insertion sort
+      * <https://www.programiz.com/dsa/insertion-sort>
+    * Merge Sort
+    * Quick Sort
+    * Counting sort
+      * <https://www.programiz.com/dsa/counting-sort>
+      * [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) (easy)
+      * [274. H-Index](https://leetcode.com/problems/h-index/)
+    * Radix Sort
+    * Heap sort
+    * Bucket sort
+      * <https://www.programiz.com/dsa/bucket-sort>
   * String Algo
     * Boggle <https://www.geeksforgeeks.org/boggle-find-possible-words-board-characters/>
     * Boyer-Moore - Pattern Matching
       * Partial boyer-moore <https://youtu.be/ZMQWjslBlbU>
     * [window algorithm substring search](https://leetcode.com/problems/find-all-anagrams-in-a-string/discuss/92007/sliding-window-algorithm-template-to-solve-all-the-leetcode-substring-search-problem)
-  * Binary
-    * bits, bytes
-      * <https://leetcode.com/tag/bit-manipulation/>
-      * <https://yangshun.github.io/tech-interview-handbook/algorithms/binary/>
-      * [268. Missing Number](https://leetcode.com/problems/missing-number/) (easy)
-      * [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) (easy)
-      * [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) (medium)
-      * [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
-      * [136. Single Number](https://leetcode.com/problems/single-number/) (easy)
-      * [ ] [137. Single Number II](https://leetcode.com/problems/single-number-ii/) (medium)
-      * [260. Single Number III](https://leetcode.com/problems/single-number-iii/) (medium)
+  * bits, bytes
+    * <https://leetcode.com/tag/bit-manipulation/>
+    * <https://yangshun.github.io/tech-interview-handbook/algorithms/binary/>
+    * [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) (easy)
+    * [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) (easy)
+    * [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) (easy)
+    * [268. Missing Number](https://leetcode.com/problems/missing-number/) (easy)
+    * [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) (easy)
+    * [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) (medium)
+    * [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
+    * [136. Single Number](https://leetcode.com/problems/single-number/) (easy)
+    * [ ] [137. Single Number II](https://leetcode.com/problems/single-number-ii/) (medium)
+    * [260. Single Number III](https://leetcode.com/problems/single-number-iii/) (medium)
+    * [342. Power of Four](https://leetcode.com/problems/power-of-four/) (easy)
+    * [1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) (easy)
   * Array
     * [Boyer-Moore Voting Algorithm](https://youtu.be/n5QY3x_GNDg)
   * [ ] Interval
@@ -247,7 +284,8 @@ as much information as possible
       * [ ] template method
       * [ ] visitor
   * System Design
-    * [ ] <https://www.hiredintech.com/courses/system-design>
+    * [ ] read first (as a big intro) <https://www.hiredintech.com/courses/system-design>
+    * <https://systemsthatscale.org/>
     * <https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u>
     * <https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX>
     * [ ] <https://github.com/resumejob/system-design-algorithms>

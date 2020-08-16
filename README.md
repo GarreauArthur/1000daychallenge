@@ -29,6 +29,169 @@ CS or SE: it can be anything, programming, AI, games, algo, theory, data, dev op
 
 ## NEAR GOALS/TODO
 
+* Week 33 (10 august 2020)
+  * Take notes on sorting algo
+  * easy leetcode grind
+* Week 34 (17 august 2020)
+  * String algo and problems (easy)
+  * easy leetcode grind, focus on string problems
+* Week 35 (24 august 2020)
+  * read <https://www.programiz.com/dsa/trees>
+  * Notes on AVL Tree (check William F and Adul Bari vid too)
+  * B-Tree
+  * easy grind
+* Week 36 (31 august 2020)
+  * Red-Black Tree
+  * medium grind
+* Week 37 (07/09/20)
+* Week 38 (14/09/20)
+* Week 39 (21/09/20)
+* Week 40 (28/09/20)
+* Week 41 (05/10/20)
+* Week 42 (12/10/20)
+* Week 43 (19/10/20)
+* Week 44 (26/10/20)
+* Week 45 (02/11/20)
+* Week 46 (09/11/20)
+* Week 47 (16/11/20)
+* Week 48 (23/11/20)
+* Week 49 (30/11/20)
+* Week 50 (7/12/20)
+* Week 51 (14/12/20)
+* Week 52 (21/12/20)
+* Week 53 (28/12/20)
+
+
+Legend:
+* WFytp:  <https://www.youtube.com/watch?v=Qmt0QwzEmh0&list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu>
+* AByt: Adul Bari <https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O>
+* HE: <https://www.hackerearth.com/fr/practice/algorithms/>
+* miz: <https://www.programiz.com/dsa/>
+
+* algo
+  * general
+    * master theorem
+    * [amortized analysis](https://youtu.be/T7W5E-5mljc)
+    * [ ] <https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction>
+  * sorting
+    * [x] HE - bubble sort
+    * [x] miz - bubble sort
+    * [x] HE - selection sort
+    * [x] miz - selection sort
+    * [ ] HE - insertion sort
+    * [ ] miz - insertion sort
+    * [ ] HE - merge sort
+    * [ ] miz - merge sort
+    * [ ] HE - quick sort
+    * [ ] miz - quick sort
+    * [x] HE - counting sort
+    * [x] miz - counting sort
+    * [ ] HE - radix sort
+    * [ ] miz - radix sort
+    * [ ] HE - heap sort
+    * [ ] miz - heap sort
+    * [x] HE - buck sort bucket-sort>
+    * [x] miz - buck sort bucket-sort
+  * greedy
+    * [1/7] AByt - 3. Greedy Method
+    * [ ] miz - Greedy Algos 
+  * string
+    * <https://yangshun.github.io/tech-interview-handbook/algorithms/string>
+    * [0/2] AByt - 9. String matching algo
+    * [ ] HE - basic of string manipulation
+    * [ ] HE - string searching
+    * [ ] HE - Z algo
+    * [ ] HE - Manachar's algo
+    * [ ] miz - Other algo > Rabin-Karp algo
+  * dynamic programming
+    * [ ] miz - Dynamic programming
+    * [2/15] AByt - 4. Dynamic programming
+    * [x] HE - Intro to DP
+    * [ ] HE - 2 dimen
+    * [ ] HE - state space reduction
+    * [ ] HE - dp and bit masking
+    * [ ] Notes on 5 patterns
+  * backtracking
+    * [2/5] AByt - 6. Backtrack
+    * [ ] miz - other algo > backtracking algo
+  * network flow
+  * hashing
+      * [3/9] WFyp - hash table
+  * bits and bytes
+  * Interval
+    * https://yangshun.github.io/tech-interview-handbook/algorithms/interval
+  * graph
+    * [ ] miz - Graph Based DSA > Bellman Ford's algo (revision)
+    * [0/2] AByt - 5. graph traversals
+    * [graph theory playlist (WilliamFiset)](https://www.youtube.com/watch?v=eQA-m22wjTQ&list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
+      * [0/22] Graph theory
+      * [0/2] Dynamic Programming
+      * [0/6] algos ???
+      * [0/11] Network flow
+  * [0/4] AByt - 7. Branch and bound
+  * [0/2] AByt - 8. NP-hard and NP-complete
+  * [0/21] AByt - 2. Divide and conquer
+  * [0/7] AByt - Other random videos // TODO check names
+* data structure
+  * Array
+    * [ ] Suffix, prefix
+      * [0/6] WFyp - Suffix array, prefix
+    * [ ] array manipulation, difference array <https://youtu.be/hDhf04AJIRs>
+  * Trees
+    * [ ] miz - Tree based DSA I
+    * [ ] miz - Tree based DSA II
+    * [0/1] WFyp - Balanced Binary search tree rotations
+    * Fenwick Tree
+      * [0/4] WFyp - Fenwick Tree
+    * AVL tree
+      * [0/3] WFyp - AVL tree
+      * [0/1] AByt - 10.1 AVL Trees and B, B+ trees
+    * B and B+ trees
+      * [ ] B and B+ tree <https://www.programiz.com/dsa/b-tree>
+      * [0/1] AByt - 10.2 B, B+ trees
+    * Red and black trees
+      * [ ] miz - Red-Black Tree
+    * Trie
+  * Heap
+    * [ ] miz - fibonacci heap <https://www.programiz.com/dsa/fibonacci-heap> (and next chapter)
+    * [ ] [learning to love heaps](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238)
+    * [ ] heap in c++ <https://www.fluentcpp.com/2018/03/13/heaps-priority-queues-stl-part-1/>
+  * Rope
+    * [ ] <https://leetcode.com/discuss/interview-question/413991/>
+    * <https://en.wikipedia.org/wiki/Rope_(data_structure)>
+  * Priority queue
+    * [0/2] WFyp - Index priority queue
+* Design
+  * Design Pattern
+    * [design patterns](https://refactoring.guru/)
+  * System design
+    * [ ] read first (as a big intro) <https://www.hiredintech.com/courses/system-design>
+    * <https://github.com/resumejob/system-design-algorithms>
+    * <https://systemsthatscale.org/>
+    * <https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u>
+    * <https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX>
+    * [ ] <https://github.com/resumejob/system-design-algorithms>
+* job application & interview process
+  * <https://yangshun.github.io/tech-interview-handbook/behavioral-round-overview>
+* behavior
+  * [ ] <https://yangshun.github.io/tech-interview-handbook/behavioral-round-overview>
+  * [ ] [behavioral interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!IMMEDIATE TO D!!!!!!!!!!!O
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!IMMEDIATE TO D!!!!!!!!!!!O DIOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!IMMEDIATE TO D!!!!!!!!!!!O
+
+* classer les choses à faire dans les weeks
+* read DSA introduction <https://www.programiz.com/dsa/algorithm>
+
+* prendre en nots le bitmasks <https://github.com/kdn251/interviews#bitmasks>
+* bit shifting <https://youtu.be/qq64FrA2UXQ>
+* radix sort <https://www.youtube.com/watch?v=XiuSW_mEn7g>
+
+* DEADLINE December 2020
+
+
 * mvp magic input
 * interview
   * optimization problem (greedy, knapsack, ...)
@@ -37,6 +200,9 @@ CS or SE: it can be anything, programming, AI, games, algo, theory, data, dev op
   * strings algo
   * intervals
   * advanced data structures
+  * design
+  * behavior
+* powerlist, idk do something with it, publish it, ez deploy or something, because the mvp works and can be useful
 
 ## things to do/learn
 
@@ -46,6 +212,7 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
 
 
 * Programming, Algo, data struct...
+  * [ ] read this http://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf
   * [ ] C++ (relearn + advanced)
     * [ ] The cherno c++ serie (52 already done/83)
     * [x] 1. <https://www.internalpointers.com/post/understanding-meaning-lvalues-and-rvalues-c>
@@ -69,7 +236,7 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
   * [ ] Go 
   * [ ] haskell
   * [ ] learn to create nodejs addons
-  * [ ] [behavioral interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
+  * [ ] - [behavioral interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
   * [ ] algo & data structure
     * [amortized analysis](https://youtu.be/T7W5E-5mljc)
     * [ ] <https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction>
@@ -110,15 +277,15 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
         * [x] binary search
         * [x] ternary search
       * [ ] sorting
-        * [ ] bubble sort
-        * [ ] selection sort
+        * [x] bubble sort
+        * [x] selection sort
         * [ ] insertion sort
         * [ ] merge sort
         * [ ] quick sort
-        * [ ] counting sort
+        * [x] counting sort
         * [ ] radix sort
         * [ ] heap sort
-        * [ ] buck sort <https://www.programiz.com/dsa/bucket-sort>
+        * [x] buck sort <https://www.programiz.com/dsa/bucket-sort>
       * [ ] graphs
       * [ ] string algo
         * [ ] basic of string manipulation
@@ -135,15 +302,28 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
     * [ ] heaps
       * [ ] [learning to love heaps](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238)
       * [ ] heap in c++ <https://www.fluentcpp.com/2018/03/13/heaps-priority-queues-stl-part-1/>
-    * [ ] B+ tree
+      * [ ] fibonacci heap <https://www.programiz.com/dsa/fibonacci-heap> (and next chapter)
+    * [ ] B and B+ tree <https://www.programiz.com/dsa/b-tree>
     * [ ] Rope (data structure)
       * https://leetcode.com/discuss/interview-question/413991/
       * <https://en.wikipedia.org/wiki/Rope_(data_structure)>
     * [ ] array manipulation, difference array <https://youtu.be/hDhf04AJIRs>
-    * [ ] dfs
+    * [x] dfs
     * [x] bfs, backtrack, 
     * [ ] bfs with adjency list
     * [x] parenthesis problem
+    * <https://www.programiz.com/dsa/bellman-ford-algorithm>
+      * [ ] Intro
+      * [ ] Tree based DSA I
+      * [ ] Tree based DSA II
+      * [/] Sorting algo
+      * [ ] fibonacci heap <https://www.programiz.com/dsa/fibonacci-heap> (and next chapter)
+      * [ ] Bellman Ford's algo (revision)
+      * [ ] Greedy Algos 
+      * [ ] Dynamic programming
+      * [ ] Other algo
+        * [ ] backtracking algo
+        * [ ] string algo Rabin-Karp algo
   * [ ] mettre au propre notes sur prolog
   * leetcode
     * [ ] 27/70 <https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU>
@@ -207,7 +387,14 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
 * DevOps 
   * [/] docker
   * [ ] kubernetes
-* [ ] 
+* Math
+  * [ ] https://www.khanacademy.org/math/statistics-probability
+    * [ ] probability part
+    * [ ] all the other ? part
+  * [ ] https://www.khanacademy.org/math/calculus-1
+  * [ ] https://www.khanacademy.org/math/calculus-2
+  * [ ] https://www.khanacademy.org/math/multivariable-calculus
+* [ ] Physics <https://www.khanacademy.org/science/physics> (just for fun)
 * [ ] 
 * [ ] 
 * [ ] 
