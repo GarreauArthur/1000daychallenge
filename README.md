@@ -29,24 +29,49 @@ CS or SE: it can be anything, programming, AI, games, algo, theory, data, dev op
 
 ## NEAR GOALS/TODO
 
+* Late
+  * [ ] - [5/21] Abdul bari video on Divide and conquer
+  * [ ] Take notes on sorting algo : merge sort, quicksort, radix, heap sort
+
 * Week 33 (10 august 2020)
-  * Take notes on sorting algo
-  * easy leetcode grind
-* Week 34 (17 august 2020)
-  * String algo and problems (easy)
-  * easy leetcode grind, focus on string problems
+  * [x] easy leetcode grind
+  * [x] copy notes to ipad
+    * [x] - (miz - Tree based DSA I) Tree DS
+    * [x] - (miz - Tree based DSA I) binary tree
+    * [x] - (miz - Tree based DSA I) full binary tree
+    * [x] - (miz - Tree based DSA I) perfect binary tree
+    * [x] - (miz - Tree based DSA I) complete binary tree
+    * [x] - (miz - Tree based DSA I) balanced birnary tree
+    * [x] asymptotic notes
+  * [/] Take notes on sorting algo
+* Week 34 (17 august 2020) better complexity analysis
+  * [x] Copy notes to ipad
+    * [x] - (miz - Tree based DSA I) binary search tree
+    * [x] binary search tree
+    * [x] - (miz - Tree based DSA I) Tree traversal
+  * [x] AVL Tree
+      * [x] (miz - Tree based DSA I) avl tree
+      * [2/3] WFyp - AVL tree
+      * [1/1] AByt - 10.1 AVL Trees and B, B+ trees
 * Week 35 (24 august 2020)
-  * read <https://www.programiz.com/dsa/trees>
-  * Notes on AVL Tree (check William F and Adul Bari vid too)
-  * B-Tree
-  * easy grind
+  * [x] copy notes on heap
+  * start on B tree but i need a break
+  * shit week 0 productivity week
 * Week 36 (31 august 2020)
-  * Red-Black Tree
-  * medium grind
+  * Red-black tree
+  * BACKTRACKING problems
 * Week 37 (07/09/20)
+  * [ ] String algo and problems (easy)
+  * [ ] easy leetcode grind, focus on string problems
+  * [ ] Suffix, prefix
 * Week 38 (14/09/20)
+  * medium grind
+  * dynamic programming
 * Week 39 (21/09/20)
+  * Red-black tree
+  * BACKTRACKING problems
 * Week 40 (28/09/20)
+  * Fenwick Tree
 * Week 41 (05/10/20)
 * Week 42 (12/10/20)
 * Week 43 (19/10/20)
@@ -60,6 +85,8 @@ CS or SE: it can be anything, programming, AI, games, algo, theory, data, dev op
 * Week 51 (14/12/20)
 * Week 52 (21/12/20)
 * Week 53 (28/12/20)
+  * B-tree
+  * B+ Tree
 
 
 Legend:
@@ -70,6 +97,10 @@ Legend:
 
 * algo
   * general
+    * [5/21] AByt - 2. Divide and conquer
+    * [0/4] AByt - 7. Branch and bound
+    * [0/2] AByt - 8. NP-hard and NP-complete
+    * [0/7] AByt - Other random videos // TODO check names
     * master theorem
     * [amortized analysis](https://youtu.be/T7W5E-5mljc)
     * [ ] <https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction>
@@ -114,6 +145,7 @@ Legend:
   * backtracking
     * [2/5] AByt - 6. Backtrack
     * [ ] miz - other algo > backtracking algo
+    * leetcode 31, 78, 90, 47, 40, 131
   * network flow
   * hashing
       * [3/9] WFyp - hash table
@@ -128,29 +160,38 @@ Legend:
       * [0/2] Dynamic Programming
       * [0/6] algos ???
       * [0/11] Network flow
-  * [0/4] AByt - 7. Branch and bound
-  * [0/2] AByt - 8. NP-hard and NP-complete
-  * [0/21] AByt - 2. Divide and conquer
-  * [0/7] AByt - Other random videos // TODO check names
 * data structure
   * Array
-    * [ ] Suffix, prefix
-      * [0/6] WFyp - Suffix array, prefix
     * [ ] array manipulation, difference array <https://youtu.be/hDhf04AJIRs>
   * Trees
-    * [ ] miz - Tree based DSA I
-    * [ ] miz - Tree based DSA II
+    * [ ] Binary tree
+      * [x] (miz - Tree based DSA I) Tree DS
+      * [x] (miz - Tree based DSA I) Tree traversal
+      * [x] (miz - Tree based DSA I) binary tree
+      * [x] (miz - Tree based DSA I) full binary tree
+      * [x] (miz - Tree based DSA I) perfect binary tree
+      * [x] (miz - Tree based DSA I) complete binary tree
+      * [x] (miz - Tree based DSA I) balanced birnary tree
+      * [x] (miz - Tree based DSA I) binary search tree
     * [0/1] WFyp - Balanced Binary search tree rotations
     * Fenwick Tree
       * [0/4] WFyp - Fenwick Tree
     * AVL tree
-      * [0/3] WFyp - AVL tree
-      * [0/1] AByt - 10.1 AVL Trees and B, B+ trees
+      * [2/3] WFyp - AVL tree
+      * [1/1] AByt - 10.1 AVL Trees
+      * [x] (miz - Tree based DSA I) avl tree
     * B and B+ trees
-      * [ ] B and B+ tree <https://www.programiz.com/dsa/b-tree>
       * [0/1] AByt - 10.2 B, B+ trees
+      * [ ] (miz - Tree based DSA II) B tree
+      * [ ] (miz - Tree based DSA II) insertion in a b-tree
+      * [ ] (miz - Tree based DSA II) deletion from a b-tree
+      * [ ] (miz - Tree based DSA II) b+ tree
+      * [ ] (miz - Tree based DSA II) intersion in b+tree
+      * [ ] (miz - Tree based DSA II) deletion from a b+tree
     * Red and black trees
-      * [ ] miz - Red-Black Tree
+      * [ ] (miz - Tree based DSA II) red-black tree
+      * [ ] (miz - Tree based DSA II) red-black tree insertion
+      * [ ] (miz - Tree based DSA II) red-black tree deletion
     * Trie
   * Heap
     * [ ] miz - fibonacci heap <https://www.programiz.com/dsa/fibonacci-heap> (and next chapter)
@@ -251,7 +292,7 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
       * [3/9] hash table
       * [0/4] Fenwick Tree
       * [0/6] Suffix array, prefix
-      * [0/1] Balanced Binary search tree rotations
+      * [1/1] Balanced Binary search tree rotations
       * [0/3] AVL tree
       * [0/2] Index priority queue
     * [graph theory playlist (WilliamFiset)](https://www.youtube.com/watch?v=eQA-m22wjTQ&list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
@@ -261,7 +302,7 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
       * [0/11] Network flow
     * [ ] Abdul Bari <https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O>
       * [17/17] 1. Intro/analysis
-      * [0/21] 2. Divide and conquer
+      * [3/21] 2. Divide and conquer
       * [1/7] 3. Greedy Method
       * [2/15] 4. Dynamic programming
       * [0/2] 5. graph traversals
@@ -288,6 +329,7 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
         * [x] buck sort <https://www.programiz.com/dsa/bucket-sort>
       * [ ] graphs
       * [ ] string algo
+        * [1/6] WFyp - Suffix array, prefix
         * [ ] basic of string manipulation
         * [ ] string searching
         * [ ] Z algo

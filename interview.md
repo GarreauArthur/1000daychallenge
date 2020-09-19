@@ -14,6 +14,7 @@ as much information as possible
   * [behavioral interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
   * [git repo with all the basic you need to know](https://github.com/kdn251/interviews)
   * [Learn DS & algo, nice visuals](https://www.programiz.com/dsa)
+  * <https://leetcode.com/discuss/general-discussion/522705/1000-leetcode-problems-within-a-year>
 * Data structure
   * Array & Matrix
     * type: pre/sufix, two pointers, BFS/DFS, DP, Kadane
@@ -38,13 +39,18 @@ as much information as possible
     * [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) (easy)
     * [733. Flood Fill](https://leetcode.com/problems/flood-fill/) (easy) dfs/bfs
     * [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) (medium) way too dank, need to use/modify the input
+    * [807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) (medium) not really interesting
   * Hash map
     * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (easy) solvable with a hashtable
     * [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) (easy)
     * [525. Contiguous Array](https://leetcode.com/problems/contiguous-array) (medium) use a unordered_map
     * [383. Ransom Note](https://leetcode.com/problems/ransom-note/)
+    * [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) (medium)
+  * Set
+    * [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) (easy)
   * Strings
     * [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) (easy) nothing really interesting
+    * [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) (easy)
     * [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) (easy)
     * [520. Detect Capital](https://leetcode.com/problems/detect-capital/) (easy) not really interesting
     * [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) (easy)
@@ -91,6 +97,7 @@ as much information as possible
     * Trees (in general)
       * [ ] [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) (medium)
     * Binary Trees
+      * [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) (medium)
       * [100. Same Tree](https://leetcode.com/problems/same-tree/) (easy)
       * [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (easy)
       * [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) (easy) 
@@ -102,10 +109,13 @@ as much information as possible
       * [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) (easy) DFS
       * [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) (easy)
       * [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) (medium) dfs
+      * [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) (medium)
+      * [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) (medium) level order traversal (bfs)
     * Binary Search trees
       * [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
       * [sqrt(x)](https://leetcode.com/problems/sqrtx/) with binary search
       * [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+      * [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) (medium)
     * rope or cord (sort of binary tree)
     * B-trees
     * B+ tree
@@ -155,6 +165,7 @@ as much information as possible
       * [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) (easy) DFS
       * [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) (medium)
       * [733. Flood Fill](https://leetcode.com/problems/flood-fill/) (easy) dfs/bfs
+      * [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) (easy) dfs / "backtracking"
       * [79. Word Search](https://leetcode.com/problems/word-search/) (medium)
       * [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) (medium) backtracking recursive dfs
       * [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
@@ -171,9 +182,12 @@ as much information as possible
   * Recursion
   * Optimization
     * Greedy method
-    * Dynamic Programming
+      * [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
     * Branch and bound
   * Backtracking
+    * [46. Permutations](https://leetcode.com/problems/permutations/) (medium) cf my own video
+    * [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) (medium) actually good
+    * [39. Combination Sum](https://leetcode.com/problems/combination-sum/) (medium)
     * [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) (medium) Good one, recursive dfs
     * [alreay done on hackerrank] [Sudoku](https://leetcode.com/problems/sudoku-solver/) (hard)
     * [REDO AGAIN] - [N Queen](https://leetcode.com/problems/n-queens/) (hard)
@@ -182,6 +196,7 @@ as much information as possible
     * [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) (medium)
     * [ ] todo [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
     * [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) (medium)
+    * [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) (easy) dfs / "backtracking"
     * m coloring problem
     * Hamiltonian Cycle
     * The knight's tour problem
