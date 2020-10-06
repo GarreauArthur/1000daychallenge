@@ -40,6 +40,8 @@ as much information as possible
     * [733. Flood Fill](https://leetcode.com/problems/flood-fill/) (easy) dfs/bfs
     * [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) (medium) way too dank, need to use/modify the input
     * [807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) (medium) not really interesting
+    * [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) (medium) kind of interesting
+    * [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) (hard) interesting
   * Hash map
     * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (easy) solvable with a hashtable
     * [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) (easy)
@@ -80,6 +82,7 @@ as much information as possible
       * (amazon) [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
   * Priority Queue
     * [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) (easy)
+    * [1094. Car Pooling](https://leetcode.com/problems/car-pooling/) (medium) can be solve without a priority queue
   * Stack
     * [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) (simple)
     * Depth First Search
@@ -116,6 +119,7 @@ as much information as possible
       * [sqrt(x)](https://leetcode.com/problems/sqrtx/) with binary search
       * [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
       * [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) (medium)
+      * [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) (medium)
     * rope or cord (sort of binary tree)
     * B-trees
     * B+ tree
@@ -187,6 +191,7 @@ as much information as possible
   * Backtracking
     * [46. Permutations](https://leetcode.com/problems/permutations/) (medium) cf my own video
     * [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) (medium) actually good
+    * [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) (hard) but easy when we know the pattern
     * [39. Combination Sum](https://leetcode.com/problems/combination-sum/) (medium)
     * [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) (medium) Good one, recursive dfs
     * [alreay done on hackerrank] [Sudoku](https://leetcode.com/problems/sudoku-solver/) (hard)
@@ -261,6 +266,7 @@ as much information as possible
     * [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) (medium)
     * [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
     * [136. Single Number](https://leetcode.com/problems/single-number/) (easy)
+    * [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) (easy)
     * [ ] [137. Single Number II](https://leetcode.com/problems/single-number-ii/) (medium)
     * [260. Single Number III](https://leetcode.com/problems/single-number-iii/) (medium)
     * [342. Power of Four](https://leetcode.com/problems/power-of-four/) (easy)

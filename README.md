@@ -32,47 +32,22 @@ CS or SE: it can be anything, programming, AI, games, algo, theory, data, dev op
 * Late
   * [ ] - [5/21] Abdul bari video on Divide and conquer
   * [ ] Take notes on sorting algo : merge sort, quicksort, radix, heap sort
+  * [ ] finish B and B+ tree
+  * [ ] red-black tree
 
-* Week 33 (10 august 2020)
-  * [x] easy leetcode grind
-  * [x] copy notes to ipad
-    * [x] - (miz - Tree based DSA I) Tree DS
-    * [x] - (miz - Tree based DSA I) binary tree
-    * [x] - (miz - Tree based DSA I) full binary tree
-    * [x] - (miz - Tree based DSA I) perfect binary tree
-    * [x] - (miz - Tree based DSA I) complete binary tree
-    * [x] - (miz - Tree based DSA I) balanced birnary tree
-    * [x] asymptotic notes
-  * [/] Take notes on sorting algo
-* Week 34 (17 august 2020) better complexity analysis
-  * [x] Copy notes to ipad
-    * [x] - (miz - Tree based DSA I) binary search tree
-    * [x] binary search tree
-    * [x] - (miz - Tree based DSA I) Tree traversal
-  * [x] AVL Tree
-      * [x] (miz - Tree based DSA I) avl tree
-      * [2/3] WFyp - AVL tree
-      * [1/1] AByt - 10.1 AVL Trees and B, B+ trees
-* Week 35 (24 august 2020)
-  * [x] copy notes on heap
-  * start on B tree but i need a break
-  * shit week 0 productivity week
-* Week 36 (31 august 2020)
-  * Red-black tree
-  * BACKTRACKING problems
-* Week 37 (07/09/20)
+* Week 38 (14/09/20)
   * [ ] String algo and problems (easy)
   * [ ] easy leetcode grind, focus on string problems
-  * [ ] Suffix, prefix
-* Week 38 (14/09/20)
-  * medium grind
+  * [x] Suffix, prefix
+  * [ ] segment tree
   * dynamic programming
 * Week 39 (21/09/20)
-  * Red-black tree
-  * BACKTRACKING problems
+  * dynamic programming
 * Week 40 (28/09/20)
   * Fenwick Tree
 * Week 41 (05/10/20)
+  * medium grind
+  * Red-black tree
 * Week 42 (12/10/20)
 * Week 43 (19/10/20)
 * Week 44 (26/10/20)
@@ -136,7 +111,7 @@ Legend:
     * [ ] miz - Other algo > Rabin-Karp algo
   * dynamic programming
     * [ ] miz - Dynamic programming
-    * [2/15] AByt - 4. Dynamic programming
+    * [4/15] AByt - 4. Dynamic programming
     * [x] HE - Intro to DP
     * [ ] HE - 2 dimen
     * [ ] HE - state space reduction
@@ -164,7 +139,7 @@ Legend:
   * Array
     * [ ] array manipulation, difference array <https://youtu.be/hDhf04AJIRs>
   * Trees
-    * [ ] Binary tree
+    * [x] Binary tree
       * [x] (miz - Tree based DSA I) Tree DS
       * [x] (miz - Tree based DSA I) Tree traversal
       * [x] (miz - Tree based DSA I) binary tree
@@ -173,7 +148,9 @@ Legend:
       * [x] (miz - Tree based DSA I) complete binary tree
       * [x] (miz - Tree based DSA I) balanced birnary tree
       * [x] (miz - Tree based DSA I) binary search tree
-    * [0/1] WFyp - Balanced Binary search tree rotations
+    * [1/1] WFyp - Balanced Binary search tree rotations
+    * [ ] segment tree
+      * [ ] <https://www.youtube.com/watch?v=Oq2E2yGadnU>
     * Fenwick Tree
       * [0/4] WFyp - Fenwick Tree
     * AVL tree
@@ -181,7 +158,7 @@ Legend:
       * [1/1] AByt - 10.1 AVL Trees
       * [x] (miz - Tree based DSA I) avl tree
     * B and B+ trees
-      * [0/1] AByt - 10.2 B, B+ trees
+      * [1/1] AByt - 10.2 B, B+ trees
       * [ ] (miz - Tree based DSA II) B tree
       * [ ] (miz - Tree based DSA II) insertion in a b-tree
       * [ ] (miz - Tree based DSA II) deletion from a b-tree
@@ -291,7 +268,7 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
       * [5/5] binary tree
       * [3/9] hash table
       * [0/4] Fenwick Tree
-      * [0/6] Suffix array, prefix
+      * [6/6] Suffix array, prefix
       * [1/1] Balanced Binary search tree rotations
       * [0/3] AVL tree
       * [0/2] Index priority queue
@@ -329,7 +306,7 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
         * [x] buck sort <https://www.programiz.com/dsa/bucket-sort>
       * [ ] graphs
       * [ ] string algo
-        * [1/6] WFyp - Suffix array, prefix
+        * [6/6] WFyp - Suffix array, prefix
         * [ ] basic of string manipulation
         * [ ] string searching
         * [ ] Z algo

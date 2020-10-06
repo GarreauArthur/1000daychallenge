@@ -1,4 +1,4 @@
-224
+235
 
 # day 201: 2020-08-16
 
@@ -160,4 +160,64 @@ TODO
 # day 224: 2020-09-19
 
 * leetcode 1291. Sequential Digits
+* Longest common substring problem suffix array part 1 (finally done)
+
+# day 225: 2020-09-20
+
+* Longest common substring problem suffix array part 1 (finally done)
+* Longest common substring problem suffix array part 2 
+* Longest Repeated Substring suffix array
+* leetcode 980. Unique Paths III (hard)
+
+
+# day 226: 2020-09-21
+
+* leetcode 1094. Car Pooling (solve with priority_queue) (medium)
+* abdul 4.1 MultiStage graph - dp
+        4.1.1
+
+# day 227: 2020-09-22
+
+* tried leetcode 229. Majority Element II, but i am clueless on how to do it in constant space
+
+# day 228: 2020-09-23
+
+* 4.2 All Pairs Shortest Path (Floyd-Warshall) - Dynamic Programming
+* Boyer-Moore
+
+# day 229: 2020-09-24
+
+* fin notes Boyer Moore voting algo
+  * <https://gregable.com/2013/10/majority-vote-algorithm-find-majority.html>
+* 389. Find the Difference
+
+* [ ] lire https://coldfunction.com/mgen/p/3n
+* [ ] majority 2
+
+# day 230: 2020-09-30
+
+* leetcode 41. First Missing Positive (hard) (am i getting better ?)
+
+# day 231: 2020-10-01
+
+* leetcode 933. Number of Recent Calls
+
+
+# day 232: 2020-10-03
+
+* 532. K-diff Pairs in an Array (medium)
+* des petits schémas (idées) pour magic input
+
+# day 233: 2020-10-04
+
+* design pattern : command
+* magic-input : commence à implémenter des commandes
+
+# day 234: 2020-10-05
+
+* leetcode daily challenge
+
+# day 235: 2020-10-06
+
+* 701. Insert into a Binary Search Tree
 
