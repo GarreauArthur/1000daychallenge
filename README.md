@@ -29,37 +29,27 @@ CS or SE: it can be anything, programming, AI, games, algo, theory, data, dev op
 
 ## NEAR GOALS/TODO
 
+
+* [ ] achieve mvp and first prod of p-k
+* [ ] go back to my CS grind (data structure, design, design pattern, leetcode...) 
+* [ ] continue learning new CSS things
+* [ ] learn for my job (java spring, java, angular)
+
+
 * Late
   * [ ] - [5/21] Abdul bari video on Divide and conquer
   * [ ] Take notes on sorting algo : merge sort, quicksort, radix, heap sort
   * [ ] finish B and B+ tree
   * [ ] red-black tree
-
-* Week 38 (14/09/20)
   * [ ] String algo and problems (easy)
   * [ ] easy leetcode grind, focus on string problems
   * [x] Suffix, prefix
   * [ ] segment tree
   * dynamic programming
-* Week 39 (21/09/20)
-  * dynamic programming
-* Week 40 (28/09/20)
   * Fenwick Tree
-* Week 41 (05/10/20)
   * medium grind
   * Red-black tree
-* Week 42 (12/10/20)
-* Week 43 (19/10/20)
-* Week 44 (26/10/20)
-* Week 45 (02/11/20)
-* Week 46 (09/11/20)
-* Week 47 (16/11/20)
-* Week 48 (23/11/20)
-* Week 49 (30/11/20)
-* Week 50 (7/12/20)
-* Week 51 (14/12/20)
-* Week 52 (21/12/20)
-* Week 53 (28/12/20)
+  * intervals
   * B-tree
   * B+ Tree
 
@@ -70,6 +60,59 @@ Legend:
 * HE: <https://www.hackerearth.com/fr/practice/algorithms/>
 * miz: <https://www.programiz.com/dsa/>
 
+
+* Project
+  * [ ] Project-k
+    * [ ] achieve mvp
+    * [ ] first prod of p-k
+  * [ ] nnn calendar
+  * [ ] time tracker
+    * [ ] quick easy proto
+* Tech
+  * CSS
+    * [ ] css flexbox
+    * [ ] css grid
+* Design
+  * [x] solid principles
+  * Design Pattern
+    * [design patterns](https://refactoring.guru/)
+    * [/5] Creational
+      * [x] factory method
+      * [ ] abstract factory
+      * [ ] builder
+      * [ ] prototype
+      * [ ] singleton
+    * [1/7] Structural
+      * [x] adapter
+      * [ ] bridge
+      * [ ] composite
+      * [ ] Decorator
+      * [ ] facade
+      * [ ] flyweight
+      * [ ] proxy
+    * [1/10] Behavioral
+      * [/] Chain of responsability
+      * [x] Command
+      * [ ] Iterator
+      * [ ] mediator
+      * [ ] momento
+      * [/] observer
+      * [ ] state
+      * [/] strategy
+      * [ ] template method
+      * [ ] visitor
+  * System design
+    * [ ] read first (as a big intro) <https://www.hiredintech.com/courses/system-design>
+    * <https://github.com/resumejob/system-design-algorithms>
+    * <https://systemsthatscale.org/>
+    * <https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u>
+    * <https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX>
+    * [ ] <https://github.com/resumejob/system-design-algorithms>
+* job application & interview process
+  * <https://yangshun.github.io/tech-interview-handbook/behavioral-round-overview>
+* behavior
+  * [ ] <https://yangshun.github.io/tech-interview-handbook/behavioral-round-overview>
+  * [ ] [behavioral interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
 * algo
   * general
     * [5/21] AByt - 2. Divide and conquer
@@ -127,6 +170,7 @@ Legend:
   * bits and bytes
   * Interval
     * https://yangshun.github.io/tech-interview-handbook/algorithms/interval
+    * leetcode
   * graph
     * [ ] miz - Graph Based DSA > Bellman Ford's algo (revision)
     * [0/2] AByt - 5. graph traversals
@@ -179,21 +223,6 @@ Legend:
     * <https://en.wikipedia.org/wiki/Rope_(data_structure)>
   * Priority queue
     * [0/2] WFyp - Index priority queue
-* Design
-  * Design Pattern
-    * [design patterns](https://refactoring.guru/)
-  * System design
-    * [ ] read first (as a big intro) <https://www.hiredintech.com/courses/system-design>
-    * <https://github.com/resumejob/system-design-algorithms>
-    * <https://systemsthatscale.org/>
-    * <https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u>
-    * <https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX>
-    * [ ] <https://github.com/resumejob/system-design-algorithms>
-* job application & interview process
-  * <https://yangshun.github.io/tech-interview-handbook/behavioral-round-overview>
-* behavior
-  * [ ] <https://yangshun.github.io/tech-interview-handbook/behavioral-round-overview>
-  * [ ] [behavioral interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!IMMEDIATE TO D!!!!!!!!!!!O

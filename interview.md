@@ -41,6 +41,7 @@ as much information as possible
     * [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) (medium) way too dank, need to use/modify the input
     * [807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) (medium) not really interesting
     * [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) (medium) kind of interesting
+    * [189. Rotate Array](https://leetcode.com/problems/rotate-array/) (medium) A bit tricky
     * [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) (hard) interesting
   * Hash map
     * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (easy) solvable with a hashtable
@@ -63,6 +64,7 @@ as much information as possible
     * [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) (medium)
     * [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) (easy)
     * [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) (easy)
+    * [859. Buddy Strings](https://leetcode.com/problems/buddy-strings/) (easy)
   * Linked list
     * type: two pointers, recursion
     * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) (easy) TO KNOW
@@ -74,6 +76,7 @@ as much information as possible
     * [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) (medium)
     * [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) (easy) (two pointers) To know
     * [143. Reorder List](https://leetcode.com/problems/reorder-list/) (medium) middle + reverse or recursion
+    * [61. Rotate List](https://leetcode.com/problems/rotate-list/) (medium)
   * Deque (doubly linked list)
     * [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
   * Queue
@@ -114,6 +117,7 @@ as much information as possible
       * [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) (medium) dfs
       * [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) (medium)
       * [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) (medium) level order traversal (bfs)
+      * [449. Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) (medium)
     * Binary Search trees
       * [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
       * [sqrt(x)](https://leetcode.com/problems/sqrtx/) with binary search
@@ -276,6 +280,7 @@ as much information as possible
   * [ ] Interval
     * [ ] [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) (medium)
     * [ ] [57. Insert Interval](https://leetcode.com/problems/insert-interval/) (hard)
+    * [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) (medium)
 * Design
   * UML
   * Design Pattern <https://refactoring.guru>

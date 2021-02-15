@@ -1,4 +1,4 @@
-235
+276
 
 # day 201: 2020-08-16
 
@@ -202,7 +202,6 @@ TODO
 
 * leetcode 933. Number of Recent Calls
 
-
 # day 232: 2020-10-03
 
 * 532. K-diff Pairs in an Array (medium)
@@ -220,4 +219,238 @@ TODO
 # day 235: 2020-10-06
 
 * 701. Insert into a Binary Search Tree
+* video react cookbook
+
+# day 236: 2020-10-07
+
+* leetcode 61. Rotate List (medium)
+* 1288. Remove Covered Intervals (medium)
+
+# day 237: 2020-10-09
+
+* leetcode 449. Serialize and Deserialize BST (medium)
+* 704. Binary Search
+
+# fake day 238: 2020-10-10
+
+* i almost worked, but i am a piece of shit and did not
+
+# day 238: 2020-10-11
+
+* tryied Remove Duplicate Letters
+
+# day 239: 2020-10-12
+
+* 859. Buddy Strings
+
+# day 240: 2020-10-14
+
+* house robber 2
+
+# day 241: 2020-10-15
+
+* 189. Rotate Array
+
+# day 242: 2020-10-18
+
+* 74. Search a 2D Matrix (medium)
+* 187. Repeated DNA Sequences (medium)
+
+* [ ] réviser java
+* [ ] faire leetcode en java
+* [ ] faire rapport d'avancement
+* [ ] avancer sur le rapport de stage
+* [ ] faire le test de java
+* [ ] faire mon cv capg
+* [ ] faire mon cv pour de vrai
+* [ ] rechercher du travail
+* [ ] finir logout magicinput
+
+# day 243: 2020-10-19
+
+* 1007. Minimum Domino Rotations For Equal Row
+I am not sure I like the way i solve leetcode right know, I get an intuition of a solution -> then start implementing -> fixing edge cases
+I should focus on the problem more, and try to discover interesting properties
+
+# day 244: 2020-10-21
+
+* logout magic-input
+* nouveau projet K
+
+# day 245: 2020-10-26
+
+* learning spring security
+
+# day 246: 2020-10-27
+
+* learning spring security
+
+# day 247: 2020-10-29
+
+* learning more about spring boot
+  * tons of video
+  * difference between @Component & @Bean
+  * @Component, @Repository, @Service, @Controller
+
+# day 248: 2020-11-10
+
+* je suis bien occupé avec mon rapport de stage, donc pas trop le temps de bosser
+* leetcode Flipping an Image
+
+# day 249: 2020-11-26
+
+* fireship
+  * variables css
+  * grid css
+
+# day 250: 2020-11-27
+
+* fireship
+  * css animation in 100 seconds
+* notes dans kl sur les nouveautés css
+* repo github avec exercices
+
+# day 251: 2020-11-29
+
+* css transform property
+* css transition
+* fireship flexbox in 100s
+* exercices on flexbox and grid
+
+# day 252: 2020-12-29
+
+* project k
+  * created a bunch of issues
+
+# day 253: 2020-12-31
+
+* projet k
+  * html page to label data
+  * start setting up prisma
+
+# day 254: 2021-01-02
+
+* projet k
+  * setting up prisma, inserting categoris in database
+
+# day 255: 2021-01-08
+
+* p_k: us1
+
+# day 256: 2021-01-09
+
+* p_k: #1, #5
+
+# day 257: 2021-01-10
+
+* AdaBoost, clearly explained https://youtu.be/LsK-xG1cLYA
+
+# day 258: 2021-01-11
+
+* p_k: #5 (backedn)
+
+# day 259: 2021-01-12
+
+* p_k: #2
+
+# day 260: 2021-01-13
+
+* p_k: #2
+* p_k: #5 (frontend)
+
+# day 261: 2021-01-14
+
+* p_k: #5 (frontend, premier proto)
+
+
+# day 262: 2021-01-18
+
+* p-k: #15 (one category)
+
+# day 263: 2021-01-29
+
+* p-k: #15 (intersection category)
+
+# day 264: 2021-01-31
+
+* p-k: #15 (union, complement), closes
+
+
+# day 265: 2021-02-02
+
+* p-k: #7
+
+# day 266: 2021-02-03
+
+* p-k: #7
+
+# day 267: 2021-02-04
+
+* I've stopped to log properly, to work properly, I've been unfocused, I haven't
+work really hard, I have been inconsistent, I need to change and be more focused.
+I need to remember my goals, go back to work, make sure I focus on getting better.
+
+# day 268: 2021-02-06
+
+* SOLID principle (kl/softwareegineering/solid.md)
+
+# day 269: 2021-02-06
+
+* Design pattern: factory method
+
+# day 270: 2021-02-07
+
+* Design pattern: factory method
+* notes on uml
+
+# day 271: 2021-02-08
+
+* Disgn Pattern: builder
+
+# day 272: 2021-02-09
+
+* dp: Prototype
+* dp: Singleton
+
+# day 273: 2021-02-10
+
+* structural dp: adapter
+
+# day 274: 2021-02-12
+
+* messing around with css, garreau.xyz dark side
+
+# day 276: 2021-02-13
+
+* time tracker (todo list)
+* dp: Bridge (not entirely)
+* start building react component to bip every a defined interval of time
+
+# day 276: 2021-02-14
+
+* try to understand a bug with the compo (see above)
+  * understand better react render
+    * <https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/>
+    * [getting closure on react hooks by shawn wang](https://youtu.be/KJP1E-Y-xyo)
+    * [closure javascript, lexical env, garbage collection](https://javascript.info/closure)
+    * <https://javascript.info/array-methods>
+    * <https://javascript.info/object-methods>
+    * <https://javascript.info/new-function>
+
+  
+
+
+
+spring
+apache camel
+
+hxd editor binaire
+git, gitkraken
+
+mobaxterm
+
+soapui
+squash pour les tests
+
+BBV: data qui viennent de différents endroits -> transcodage vers d'autres formats.
 
