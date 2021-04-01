@@ -15,6 +15,7 @@ as much information as possible
   * [git repo with all the basic you need to know](https://github.com/kdn251/interviews)
   * [Learn DS & algo, nice visuals](https://www.programiz.com/dsa)
   * <https://leetcode.com/discuss/general-discussion/522705/1000-leetcode-problems-within-a-year>
+  * [SE interview preparation](https://orrsella.gitbooks.io/soft-eng-interview-prep/content/)
 * Data structure
   * Array & Matrix
     * type: pre/sufix, two pointers, BFS/DFS, DP, Kadane

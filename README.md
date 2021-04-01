@@ -30,10 +30,11 @@ CS or SE: it can be anything, programming, AI, games, algo, theory, data, dev op
 ## NEAR GOALS/TODO
 
 
+* [ ] read all javascript.info (and takes notes of what i don't know)
 * [ ] achieve mvp and first prod of p-k
 * [ ] go back to my CS grind (data structure, design, design pattern, leetcode...) 
 * [ ] continue learning new CSS things
-* [ ] learn for my job (java spring, java, angular)
+* [ ] learn for my job (java spring, java, angular, javascript)
 
 
 * Late
@@ -76,16 +77,16 @@ Legend:
   * [x] solid principles
   * Design Pattern
     * [design patterns](https://refactoring.guru/)
-    * [/5] Creational
+    * [5/5] Creational
       * [x] factory method
-      * [ ] abstract factory
-      * [ ] builder
-      * [ ] prototype
-      * [ ] singleton
-    * [1/7] Structural
+      * [x] abstract factory
+      * [x] builder
+      * [x] prototype
+      * [x] singleton
+    * [2/7] Structural
       * [x] adapter
-      * [ ] bridge
-      * [ ] composite
+      * [/] bridge
+      * [x] composite
       * [ ] Decorator
       * [ ] facade
       * [ ] flyweight
@@ -101,6 +102,7 @@ Legend:
       * [/] strategy
       * [ ] template method
       * [ ] visitor
+  * [Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/index.html)
   * System design
     * [ ] read first (as a big intro) <https://www.hiredintech.com/courses/system-design>
     * <https://github.com/resumejob/system-design-algorithms>
@@ -409,11 +411,25 @@ legend: `[ ]` : todo, `[*]` to do next, `[x]` done, `[/]` doing,
     * [x] graphQL-node tuto
     * [/] graphQL-react tuto
   * [ ] javascript
-    * [ ] Learn more - [The Modern JavaScript Tutorial](https://javascript.info/)
-      * [ ] "use strict" <https://javascript.info/strict-mode>
-      * [*] Promises, async/await  <https://javascript.info/async>
+    * [ ] <https://javascript.info> 
+      * [x] intro
+      * [x] fundamentals
+      * [ ] Code quality
+      * [ ] objects: the basics
+      * [ ] data types
+      * [ ] advanced working with functions
+      * [ ] object properties configuration
+      * [ ] prototypes, inheritance
+      * [ ] classes
+      * [ ] error handling
+      * [ ] promises, async/await
+      * [ ] generators, advanced iteration
+      * [ ] modules
+      * [ ] miscellaneous
     * [ ] closure <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures>
+  * [ ] typescript <https://basarat.gitbook.io/typescript/>
   * [ ] angular (intership need it)
+    * [ ] rxjs
   * [ ] scss (seems pretty cool and easy to learn)
   * [ ] after scss sass
   * [ ] svg animation <https://css-tricks.com/guide-svg-animations-smil/>
